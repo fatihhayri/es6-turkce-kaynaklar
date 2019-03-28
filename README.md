@@ -1,4 +1,34 @@
-# ES6 Türkçe Kaynaklar Listesi
+# ES6 Türkçe Kaynaklar Listesi
+
+ES6 konuları hakkında birşeyler yazmalıyım dedim, kaynakları araştırırken bu konuda çok Türkçe kaynak olduğunu gördüm. Bu sevindirici durum. Sonra ES6 hakkında yazı yazmak yerine bu yazılanları kategorize edip bir liste haline getirip github'da paylaşmak daha mantıklı olacağını düşündüm. Yeni makaleler eklendikçe veya bu makalelerden linki ölen olursa çıkarmayı hep beraber yaparız dedim. 
+
+Ben okuduğum kaynaklara göre bir sınıflandırma yaptım. Bu konuda farklı önerisi olan arkadaşların fikirlerine açığım. Zaten listenin github'da olma sebebide bu. Bu listeyi canlı tutmak.
+
+Buradan aşağıdaki listede yazısı bulunan tüm arkadaşlara şükranlarımı sunuyorum.
+
+Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları eklemeyi unutmayın lütfen.
+
+> video eğitimlerinin yanına :video_camera: işaretini koydum.
+
+ - [ES6 giriş ve toplu ES6 yazıları](#es6-giris-ve-toplu-es6-yazilari)
+ - [Değişkenler let ve const](#degiskenler-let-ve-const)
+ - [Template literal](#template-literal)
+ - [Ok (Arrow) fonksiyonları](#ok-arrow-fonksiyonlari)
+ - [ES6 Yeni String Metodları](#es6-yeni-string-metodlari)
+ - [ES6 Dizi İşlemleri](#es6-dizi-islemleri)
+ - [Başlangıç parametre değerleri (Default Parameters)](#baslangic-parametre-degerleri-default-parameters)
+ - [Spread Operator (...) ve Rest parametresi](#spread-operator-ve-rest-parametresi)
+ - [Object literal](#object-literal)
+ - [Destructuring](#destructuring)
+ - [Sınıf (Class)](#sinif-class)
+ - [Genarator fonksiyonlar](#genarator-fonksiyonlar)
+ - [Modüller (Modules)](#moduller-modules)
+ - [Promise](#promise)
+ - [Sembol (Symbol)](#sembol-symbol)
+ - [Set Nesnesi](#set-nesnesi)
+ - [Map ve WeakMap Nesneleri](#map-ve-weakmap-nesneleri)
+ - [Proxy](#proxy)
+ - [Ücretli Eğitimler](#ucretli-egitimler)
 
 ## ES6 giriş ve toplu ES6 yazıları
 
