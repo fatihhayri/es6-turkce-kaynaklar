@@ -10,25 +10,25 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
 
 > video eğitimlerinin yanına :video_camera: işaretini koydum.
 
- - [ES6 giriş ve toplu ES6 yazıları](#es6-giris-ve-toplu-es6-yazilari)
- - [Değişkenler let ve const](#degiskenler-let-ve-const)
+ - [ES6 giriş ve toplu ES6 yazıları](#es6-giriş-ve-toplu-es6-yazıları)
+ - [Değişkenler let ve const](#değişkenler-let-ve-const)
  - [Template literal](#template-literal)
- - [Ok (Arrow) fonksiyonları](#ok-arrow-fonksiyonlari)
- - [ES6 Yeni String Metodları](#es6-yeni-string-metodlari)
- - [ES6 Dizi İşlemleri](#es6-dizi-islemleri)
- - [Başlangıç parametre değerleri (Default Parameters)](#baslangic-parametre-degerleri-default-parameters)
- - [Spread Operator (...) ve Rest parametresi](#spread-operator-ve-rest-parametresi)
+ - [Ok (Arrow) fonksiyonları](#ok-arrow-fonksiyonları)
+ - [ES6 Yeni String Metodları](#es6-yeni-string-metodları)
+ - [ES6 Dizi İşlemleri](#es6-dizi-işlemleri)
+ - [Başlangıç parametre değerleri (Default Parameters)](#başlangıç-parametre-değerleri-default-parameters)
+ - [Spread Operator (...) ve Rest parametresi](#spread-operator--ve-rest-parametresi)
  - [Object literal](#object-literal)
  - [Destructuring](#destructuring)
- - [Sınıf (Class)](#sinif-class)
+ - [Sınıf (Class)](#sınıf-class)
  - [Genarator fonksiyonlar](#genarator-fonksiyonlar)
- - [Modüller (Modules)](#moduller-modules)
+ - [Modüller (Modules)](#modüller-modules)
  - [Promise](#promise)
  - [Sembol (Symbol)](#sembol-symbol)
  - [Set Nesnesi](#set-nesnesi)
  - [Map ve WeakMap Nesneleri](#map-ve-weakmap-nesneleri)
  - [Proxy](#proxy)
- - [Ücretli Eğitimler](#ucretli-egitimler)
+ - [Ücretli Eğitimler](#ücretli-eğitimler)
 
 ## ES6 giriş ve toplu ES6 yazıları
 
