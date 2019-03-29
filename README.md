@@ -1,8 +1,8 @@
 # ES6 Türkçe Kaynaklar Listesi
 
-ES6 konuları hakkında birşeyler yazmalıyım dedim, kaynakları araştırırken bu konuda çok Türkçe kaynak olduğunu gördüm. Bu sevindirici durum. Sonra ES6 hakkında yazı yazmak yerine bu yazılanları kategorize edip bir liste haline getirip github'da paylaşmak daha mantıklı olacağını düşündüm. Yeni makaleler eklendikçe veya bu makalelerden linki ölen olursa çıkarmayı hep beraber yaparız dedim. 
+ES6 konuları hakkında birşeyler yazmalıyım dedim, kaynakları araştırırken bu konuda çok Türkçe kaynak olduğunu gördüm. Bu sevindirici bir durum. Sonra ES6 hakkında yazı yazmak yerine bu yazılanları kategorize edip bir liste haline getirip github'ta paylaşmak daha mantıklı olacağını düşündüm. Yeni makaleler eklendikçe veya bu makalelerden linki ölen olursa çıkarmayı hep beraber yaparız dedim. 
 
-Ben okuduğum kaynaklara göre bir sınıflandırma yaptım. Bu konuda farklı önerisi olan arkadaşların fikirlerine açığım. Zaten listenin github'da olma sebebide bu. Bu listeyi canlı tutmak.
+Ben okuduğum kaynaklara göre bir sınıflandırma yaptım. Bu konuda farklı önerisi olan arkadaşların fikirlerine açığım. Zaten listenin github'ta olma sebebide bu. Bu listeyi canlı tutmak.
 
 Buradan aşağıdaki listede yazısı bulunan tüm arkadaşlara şükranlarımı sunuyorum.
 
