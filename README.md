@@ -39,7 +39,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ECMAScript 6 (ES6) Nedir? Nasıl Kullanılır?](https://www.buraktokak.com/ecmascript-6-es6-nedir-nasil-kullanilir/) - Burak Tokak
  - [ES6 Eğitimi - Ders 1](https://www.linkedin.com/pulse/es6-e%C4%9Fitimi-ders-1-hale-nur-%C3%A7al%C4%B1%C5%9Fkan/) - Hale Nur Çalışkan
  - [ES5, ES6, ES2016, ES.Next: JavaScript sürümleri nasıl ilerliyor?](http://oguzhan.in/es5-es6-es2016-es-next-javascript-surumleri-nasil-ilerliyor/) - Oğuzhan Aslan
- - [ES6 yazı serisi](https://indatawetrust.blogspot.com/2016/02/es6-ecmascript6-yazi-serisi.html) - in data we trust
+ - [ES6 yazı serisi](https://indatawetrust.blogspot.com/2016/02/es6-ecmascript6-yazi-serisi.html) - Ahmet Şimşek
  - [ECMAScript6 nedir? Nasıl kullanılır, Neden kullanmalıyız?](https://cagatay.me/ecmascript6-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-neden-kullanmal%C4%B1y%C4%B1z-3-a1d092b7d261) - Çağatay Çalı
  - [EcmaScript 6 Nedir? Bilinmesi Gerekenler](https://mehmetmasa.com.tr/javascript-dersleri/ecmascript-6-nedir-bilinmesi-gerekenler/) - Mehmet Maşa
  - [Javascript Notları(ECMA6)-Başlangıç](https://www.youtube.com/watch?v=IMnmjHlc1l0) - Fatih Çakıroğlu :video_camera:
@@ -139,13 +139,13 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Sen JavaScript’in Bir Lütfusun Spread Operatör - Extended Version :)](https://medium.com/@muratdogan/sen-javascriptin-bir-l%C3%BCtfusun-spread-operat%C3%B6r-extended-version-fa5de70beaeb) - Murat Doğan
  - [ES6: Spread (...) operatörü](https://www.youtube.com/watch?v=QuZeiud4vvE) - Uçbirim :video_camera:
  - [Javascript Harikaları-1 : Rest Parameters](http://bilisim.io/2019/02/20/javascript-harikalari-1-rest-parameters/) - bilisim.io / Tahir Kardak
- - [ES6 Default + rest + spread nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/02/es6-default-rest-spread-nedir-nasil-kullanilir.html) - in data we trust
+ - [ES6 Default + rest + spread nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/02/es6-default-rest-spread-nedir-nasil-kullanilir.html) - Ahmet Şimşek
  - [ECMAScript 6 – Spread Operator](https://www.gencayyildiz.com/blog/ecmascript-6-spread-operator/) - Gencay Yıldız
  - [Gelişmiş Atama](https://www.e-adys.com/react-native/03-11-gelismis-atama/) - Erdinç Uzun
 
 ## Object literal
 
-- [ES6 Enhanced object literals nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/02/es6-enhanced-object-literals-nedir-nasl.html) - in data we trust
+- [ES6 Enhanced object literals nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/02/es6-enhanced-object-literals-nedir-nasl.html) - Ahmet Şimşek
 -  [Javascript ES6'dan En Çok Kullandığım 5 Özellik - 5 Property-value shorthand notation](https://blog.durul.me/2018/03/21/javascript-es6-en-cok-kullandigim-5-ozellik.html) - Durul Doktoroğlu
 - [Javascript Nesne Tanımlama Yöntemleri](http://www.muratoner.net/javascript/javascript-nesne-tanimlama-yontemleri-bol-ornekli) - Murat Öner
 
@@ -157,7 +157,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [JS Ders 4 Ecmascript 6 Destructuring Assignment (Çoklu Değer Atama)](https://www.youtube.com/watch?v=Nk_7KL47EhI) - fehmiuyarnet :video_camera:
  - [ES6: destructuring örnekleri](https://www.youtube.com/watch?v=KbYi-LjyhHQ) - Uçbirim :video_camera:
  - [ECMAScript 6 – Destructuring](https://www.gencayyildiz.com/blog/ecmascript-6-destructuring/) - Gencay Yıldız
- - [ES6 Destructuring nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/02/es6-destructuring-nedir-nasil-kullanilir.html) - in data we trust
+ - [ES6 Destructuring nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/02/es6-destructuring-nedir-nasil-kullanilir.html) - Ahmet Şimşek
 
 ## Sınıf (Class)
 
@@ -177,14 +177,14 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
 - [Generatörler ve asenkron fonksiyonlar](https://www.youtube.com/watch?v=L3zeriJutZA) - Uçbirim :video_camera:
 - [ES6 generator ve ES7 async fonksiyonlar](https://kodcu.com/2017/06/es6-generator-ve-es7-async-fonksiyonlar/) - kodcu
 - [JavaScript Fonksiyonları: Üretici Fonksiyonlar - Generator Functions](http://yazilim.cevapsitesi.com/Makaleler/68/javascript-fonksiyonlari-uretici-fonksiyonlar-generator-functions) - yazilim.cevapsitesi / canora
-- [Es6 Generators nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/02/es6-generators-nedir-nasil-kullanilir.html) - in data we trust
+- [Es6 Generators nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/02/es6-generators-nedir-nasil-kullanilir.html) - Ahmet Şimşek
 - [Generators](https://www.e-adys.com/react-native/03-06-generators/) - Erdinç Uzun
 
 ## Modüller (Modules)
 
  - [ES6 Import İfadesi ve Yöntemleri](https://www.buraktokak.com/es6-import-ifadesi-ve-yontemleri/) - Burak Tokak
  - [JS Ders 13 Ecmascript 6 Modules (Modüller)](https://www.youtube.com/watch?v=CpZqChqJk8E) - fehmiuyarnet :video_camera:
- - [ES6 modules nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/03/es6-modules-nedir-nasil-kullanilir.html) - in data we trust
+ - [ES6 modules nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/03/es6-modules-nedir-nasil-kullanilir.html) - Ahmet Şimşek
  - [Ecmascript 6 Modül Sistemi](https://mehmetmasa.com.tr/javascript-dersleri/ecmascript-6-modul-sistemi/) - Mehmet Maşa
  - [ECMAScript – Module.exports ve Require Komutları](https://www.gencayyildiz.com/blog/ecmascript-module-exports-ve-require-komutlari/) - Gencay Yıldız
  - [Modules](https://www.e-adys.com/react-native/03-08-modules/) - Erdinç Uzun
@@ -213,14 +213,14 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
 
  - [JS Ders 14 Ecmascript 6 Set Nesnesi Kullanımı](https://www.youtube.com/watch?v=JY4I38YAj3Y) - fehmiuyarnet :video_camera:
  - [ES6: Map ve Set tipleri](https://www.youtube.com/watch?v=AzrJqLCKRss) - Uçbirim :video_camera:
- - [ES6 Map + Set + WeakMap + WeakSet nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/03/es6-map-set-weakmap-weakset-nedir-nasil-kullanilir.html) - in data we trust
+ - [ES6 Map + Set + WeakMap + WeakSet nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/03/es6-map-set-weakmap-weakset-nedir-nasil-kullanilir.html) - Ahmet Şimşek
  - [Map ve Set](https://www.e-adys.com/react-native/03-14-map-ve-set/) - Erdinç Uzun
 
 ## Map ve WeakMap Nesneleri
 
  - [JS Ders 15 Ecmascript 6 Map ve WeakMap Nesnelerinin Kullanımı](https://www.youtube.com/watch?v=OQOJuPjiWj0) - fehmiuyarnet :video_camera:
  - [ES6: Map ve Set tipleri](https://www.youtube.com/watch?v=AzrJqLCKRss) - Uçbirim :video_camera:
- - [ES6 Map + Set + WeakMap + WeakSet nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/03/es6-map-set-weakmap-weakset-nedir-nasil-kullanilir.html) - in data we trust
+ - [ES6 Map + Set + WeakMap + WeakSet nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/03/es6-map-set-weakmap-weakset-nedir-nasil-kullanilir.html) - Ahmet Şimşek
  - [Map ve Set](https://www.e-adys.com/react-native/03-14-map-ve-set/) - Erdinç Uzun
 
 ## Proxy 
