@@ -46,6 +46,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES6 / ES7 ile Javascript e gelen yenilikler](https://yazilimgunlugu.org/es6-es7-ile-javascript-e-gelen-yenilikler/) - Yazılım Günlüğü
  - [ES6](https://dhalsim.github.io/javascript/2015/11/14/es6) - Barış Aydek
  - [ECMAScript 6 (Harmony)](https://slides.com/azizarslan/ecmascript-6) - Aziz Arslan
+ - [Javascript: Eski Köye Yeni Adet](http://bilisim.io/2019/03/12/javascript-eski-koye-yeni-adet/) - Tahir Kardak
 
 ## Değişkenler let ve const
 
