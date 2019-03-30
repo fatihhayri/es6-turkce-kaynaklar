@@ -49,6 +49,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES6](https://dhalsim.github.io/javascript/2015/11/14/es6) - Barış Aydek
  - [ECMAScript 6 (Harmony)](https://slides.com/azizarslan/ecmascript-6) - Aziz Arslan
  - [Javascript: Eski Köye Yeni Adet](http://bilisim.io/2019/03/12/javascript-eski-koye-yeni-adet/) - Tahir Kardak
+ - :star: [Airbnb JavaScript Kılavuzu - ECMAScript 6+ (ES 2015+) Özellikleri](https://github.com/eraycetinay/javascript#ecmascript-6-es-2015-%C3%96zellikleri) - Eray Çetinay
 
 ## Değişkenler let ve const
 
