@@ -72,6 +72,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - :star: [ECMAScript 6 ile gelen let, const, default parametreler](https://www.youtube.com/watch?v=i5KABnhogaE) - Tarık Güney :video_camera:
  - :star: [Javascript’te Değişkenlerin Etki Alanları](https://www.haydarcan.com/javascriptte-degiskenlerin-etki-alanlari/) - Haydar Can
  - :star: [JavaScript’de const ve Sabit Tanımlar](https://www.haydarcan.com/javascriptde-sabit-tanimlar-ve-string-veri-tipleri/) - Haydar Can
+ - :star: [https://www.youtube.com/watch?v=SZXKTvVNX7M](https://www.youtube.com/watch?v=SZXKTvVNX7M) - sanalonyedi :video_camera:
 
 ## Template literal
 
@@ -130,6 +131,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - :star: [Javascript reduce Fonksiyonu](https://medium.com/@ibrahim.kurce/javascript-reduce-fonksiyonu-da5e09ba2e44) - İbrahim Kürce
  - :star: [Javascript’te Toplam Almanın Farklı Yöntemleri](https://medium.com/@ibrahim.kurce/javascripteki%CC%87-toplam-almanin-farkli-y%C3%B6ntemleri%CC%87-80718950a2c2) - İbrahim Kürce
  - :star: [Custom filter ve map Fonksiyonları](https://medium.com/@ibrahim.kurce/custom-filter-ve-map-fonksiyonlar%C4%B1-b2b6278edb54) - İbrahim Kürce
+  - :star: [https://www.youtube.com/watch?v=eRTJKDsl79M](https://www.youtube.com/watch?v=SZXKTvVNX7M) - sanalonyedi :video_camera:
 
 ## Başlangıç parametre değerleri (Default Parameters)
 
