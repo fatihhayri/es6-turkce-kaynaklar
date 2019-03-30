@@ -69,6 +69,8 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [JavaScript Tanımlamada var, let ve const farkı](https://ahmetonursolmaz.com.tr/javascript-var-let-ve-const-farki/) - Ahmet Onur Solmaz
  - [Javascript Dersleri 44 Let Ve Const Kullanımı (ES6)](https://youtu.be/d9pfCP5d1p8) - kolay video dersleri :video_camera:
  - :star: [ECMAScript 6 ile gelen let, const, default parametreler](https://www.youtube.com/watch?v=i5KABnhogaE) - Tarık Güney :video_camera:
+ - :star: [Javascript’te Değişkenlerin Etki Alanları](https://www.haydarcan.com/javascriptte-degiskenlerin-etki-alanlari/) - Haydar Can
+ - :star: [JavaScript’de const ve Sabit Tanımlar](https://www.haydarcan.com/javascriptde-sabit-tanimlar-ve-string-veri-tipleri/) - Haydar Can
 
 ## Template literal
 
