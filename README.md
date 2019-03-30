@@ -10,6 +10,8 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
 
 > video eğitimlerinin yanına :video_camera: işaretini koydum.
 
+> yeni eklediğim yazıların başına :star: işaretini koydum.
+
  - [ES6 giriş ve toplu ES6 yazıları](#es6-giriş-ve-toplu-es6-yazıları)
  - [Değişkenler let ve const](#değişkenler-let-ve-const)
  - [Template literal](#template-literal)
@@ -66,6 +68,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Scope, let ve const](https://www.e-adys.com/react-native/03-03-scope-let-ve-const/) - Erdinç Uzun
  - [JavaScript Tanımlamada var, let ve const farkı](https://ahmetonursolmaz.com.tr/javascript-var-let-ve-const-farki/) - Ahmet Onur Solmaz
  - [Javascript Dersleri 44 Let Ve Const Kullanımı (ES6)](https://youtu.be/d9pfCP5d1p8) - kolay video dersleri :video_camera:
+ - :star: [ECMAScript 6 ile gelen let, const, default parametreler](https://www.youtube.com/watch?v=i5KABnhogaE) - Tarık Güney :video_camera:
 
 ## Template literal
 
