@@ -168,7 +168,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
 
  - [constructorsden classlara  - ECMAScript 6 - Türkçe Doküman](https://omergulcicek.github.io/es6/es6-temel-ozellikleri/constructorsden-classlara) - Ömer Gülçiçek
  - [JavaScript ES6 Classes](https://www.yusufsezer.com.tr/javascript-es6-classes/) - Yusuf Sezer
- - ES6 Class nedir? Nasıl kullanılır?
+ - [ES6 Class nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/02/es6-class-nedir-nasil-kullanilir.html) - Ahmet Şimşek
  - [Javascript’de class tanımlama ve diğer class işlemleri](http://www.muratoner.net/javascript/javascriptde-class-tanimlama-ve-diger-class-islemleri) - Murat Öner
  - [ecmascript class ders](https://www.youtube.com/watch?v=syxq-kWp91s&vl=tr) - Dılo abinin yeri :video_camera:
  - [Javascript sınıf tanımlama](http://boraozer.com/2018/09/19/javascript-sinif-tanimlama/) - Bora Özer
