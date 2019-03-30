@@ -127,6 +127,9 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Javascript Notları(ECMA6)-Diziler[Filter]](https://www.youtube.com/watch?v=4dyeVNVobS8) - Fatih Çakıroğlu :video_camera:
  - [Javascript Notları(ECMA6)-Diziler\[Reduce\]](https://www.youtube.com/watch?v=7DRCi4kZZbA)  - Fatih Çakıroğlu :video_camera:
  - [JavaScript Filter Map Reduce](https://medium.com/@clkgkhn/javascript-filter-map-reduce-1c3191d99ad2) - Gökhan Çelik
+ - :star: [Javascript reduce Fonksiyonu](https://medium.com/@ibrahim.kurce/javascript-reduce-fonksiyonu-da5e09ba2e44) - İbrahim Kürce
+ - :star: [Javascript’te Toplam Almanın Farklı Yöntemleri](https://medium.com/@ibrahim.kurce/javascripteki%CC%87-toplam-almanin-farkli-y%C3%B6ntemleri%CC%87-80718950a2c2) - İbrahim Kürce
+ - :star: [Custom filter ve map Fonksiyonları](https://medium.com/@ibrahim.kurce/custom-filter-ve-map-fonksiyonlar%C4%B1-b2b6278edb54) - İbrahim Kürce
 
 ## Başlangıç parametre değerleri (Default Parameters)
 
