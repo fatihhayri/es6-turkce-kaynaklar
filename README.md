@@ -141,6 +141,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [JS Ders 3 Ecmascript 6 Default Parameters (Varsayılan Parametreler)](https://www.youtube.com/watch?v=Nkm8POOhnhQ) - fehmiuyarnet :video_camera:
  -  [Javascript Notları(ECMA6)-TemplateString ve Default Deger](https://youtu.be/hAoc4HMTgcQ) - Fatih Çakıroğlu :video_camera:
  - [Genişletilmiş Parametre Yönetimi](https://www.e-adys.com/react-native/03-10-genisletilmis-parametre-yonetimi/) - Erdinç Uzun
+ - :star: [ECMAScript 6: Default Values](http://ersu.me/article/javascript/ecmascript6-default-values) - Hakan Ersu
 
 ## Spread Operator (...) ve Rest parametresi
 
