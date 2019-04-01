@@ -251,4 +251,4 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Modern Javascript Kursu: ES6/ES7+ (2019)](https://www.udemy.com/modern-javascript-kursu/) - Sadık Turan :video_camera:
  - [Sıfırdan JavaScript Eğitimi: Oyun Projesi ve ES6 İçerir!](https://www.udemy.com/javascripti-sfrdan-ogrenin-oyun-projesi-ve-es6-icerir/) - Sultan Kalkan :video_camera:
  - [Sıfırdan Her Yönüyle JavaScript & Node.JS](https://www.udemy.com/nodejs-egitimi/) - Mehmet Seven :video_camera:
- - [JavaScript ile Temel Programlama ve İleri Seviye JavaScript](https://www.udemy.com/javascript-ile-temel-programlama-ve-ileri-seviye-javascript/) - Dogukan Guven Nomak, Fatih Kadir Akın :video_camera:
+ - [JavaScript ile Temel Programlama ve İleri Seviye JavaScript](https://www.udemy.com/javascript-ile-temel-programlama-ve-ileri-seviye-javascript/) - Doğukan Güven Nomak, Fatih Kadir Akın :video_camera:
