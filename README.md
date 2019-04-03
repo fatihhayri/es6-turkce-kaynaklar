@@ -49,7 +49,8 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES6](https://dhalsim.github.io/javascript/2015/11/14/es6) - Barış Aydek
  - [ECMAScript 6 (Harmony)](https://slides.com/azizarslan/ecmascript-6) - Aziz Arslan
  - [Javascript: Eski Köye Yeni Adet](http://bilisim.io/2019/03/12/javascript-eski-koye-yeni-adet/) - Tahir Kardak
- - :star: [Airbnb JavaScript Kılavuzu - ECMAScript 6+ (ES 2015+) Özellikleri](https://github.com/eraycetinay/javascript#ecmascript-6-es-2015-%C3%96zellikleri) - Eray Çetinay
+ - [Airbnb JavaScript Kılavuzu - ECMAScript 6+ (ES 2015+) Özellikleri](https://github.com/eraycetinay/javascript#ecmascript-6-es-2015-%C3%96zellikleri) - Eray Çetinay
+ - :star: [Ecma Script nedir?](https://www.kodevreni.com/4149-reactjs-temel-anlat%C4%B1m/?do=findComment&comment=13810) - Halit Izgın / kodevreni
 
 ## Değişkenler let ve const
 
@@ -69,11 +70,11 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Scope, let ve const](https://www.e-adys.com/react-native/03-03-scope-let-ve-const/) - Erdinç Uzun
  - [JavaScript Tanımlamada var, let ve const farkı](https://ahmetonursolmaz.com.tr/javascript-var-let-ve-const-farki/) - Ahmet Onur Solmaz
  - [Javascript Dersleri 44 Let Ve Const Kullanımı (ES6)](https://youtu.be/d9pfCP5d1p8) - kolay video dersleri :video_camera:
- - :star: [ECMAScript 6 ile gelen let, const, default parametreler](https://www.youtube.com/watch?v=i5KABnhogaE) - Tarık Güney :video_camera:
- - :star: [Javascript’te Değişkenlerin Etki Alanları](https://www.haydarcan.com/javascriptte-degiskenlerin-etki-alanlari/) - Haydar Can
- - :star: [JavaScript’de const ve Sabit Tanımlar](https://www.haydarcan.com/javascriptde-sabit-tanimlar-ve-string-veri-tipleri/) - Haydar Can
- - :star: [Javascript Let,Const vs Var](https://www.youtube.com/watch?v=SZXKTvVNX7M) - sanalonyedi :video_camera:
- - :star: [Popüler Bir Javascript İşe Alım Sorusu](http://erdoganb.com/2017/10/populer-bir-javascript-ise-alim-sorusu/) - Erdoğan Bavaş
+ - [ECMAScript 6 ile gelen let, const, default parametreler](https://www.youtube.com/watch?v=i5KABnhogaE) - Tarık Güney :video_camera:
+ - [Javascript’te Değişkenlerin Etki Alanları](https://www.haydarcan.com/javascriptte-degiskenlerin-etki-alanlari/) - Haydar Can
+ - [JavaScript’de const ve Sabit Tanımlar](https://www.haydarcan.com/javascriptde-sabit-tanimlar-ve-string-veri-tipleri/) - Haydar Can
+ - [Javascript Let,Const vs Var](https://www.youtube.com/watch?v=SZXKTvVNX7M) - sanalonyedi :video_camera:
+ - [Popüler Bir Javascript İşe Alım Sorusu](http://erdoganb.com/2017/10/populer-bir-javascript-ise-alim-sorusu/) - Erdoğan Bavaş
 
 ## Template literal
 
@@ -107,7 +108,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES6 Yeni String Metodları](https://www.irfansimsar.com.tr/blog/yazilim/es6-yeni-string-metodlari/) - İrfan Simsar
  - [JS Ders 18 Ecmascript 6 ile eklenen number ve string metodları](https://www.youtube.com/watch?v=Q2TBi1nP6JQ) - fehmiuyarnet :video_camera:
  - [ES6: find, includes, repeat ve bir kaç gömülü metod](https://www.youtube.com/watch?v=giAOiydwTbA) - uçbirim :video_camera:
- - :star: [String Extensions](https://www.karalamalar.net/string-extensions/) - karalamalar
+ - [String Extensions](https://www.karalamalar.net/string-extensions/) - karalamalar
 
 ## ES6 Dizi İşlemleri
 
@@ -129,10 +130,10 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Javascript Notları(ECMA6)-Diziler[Filter]](https://www.youtube.com/watch?v=4dyeVNVobS8) - Fatih Çakıroğlu :video_camera:
  - [Javascript Notları(ECMA6)-Diziler\[Reduce\]](https://www.youtube.com/watch?v=7DRCi4kZZbA)  - Fatih Çakıroğlu :video_camera:
  - [JavaScript Filter Map Reduce](https://medium.com/@clkgkhn/javascript-filter-map-reduce-1c3191d99ad2) - Gökhan Çelik
- - :star: [Javascript reduce Fonksiyonu](https://medium.com/@ibrahim.kurce/javascript-reduce-fonksiyonu-da5e09ba2e44) - İbrahim Kürce
- - :star: [Javascript’te Toplam Almanın Farklı Yöntemleri](https://medium.com/@ibrahim.kurce/javascripteki%CC%87-toplam-almanin-farkli-y%C3%B6ntemleri%CC%87-80718950a2c2) - İbrahim Kürce
- - :star: [Custom filter ve map Fonksiyonları](https://medium.com/@ibrahim.kurce/custom-filter-ve-map-fonksiyonlar%C4%B1-b2b6278edb54) - İbrahim Kürce
-  - :star: [Map ve Reduce - Javascript](https://www.youtube.com/watch?v=SZXKTvVNX7M) - sanalonyedi :video_camera:
+ - [Javascript reduce Fonksiyonu](https://medium.com/@ibrahim.kurce/javascript-reduce-fonksiyonu-da5e09ba2e44) - İbrahim Kürce
+ - [Javascript’te Toplam Almanın Farklı Yöntemleri](https://medium.com/@ibrahim.kurce/javascripteki%CC%87-toplam-almanin-farkli-y%C3%B6ntemleri%CC%87-80718950a2c2) - İbrahim Kürce
+ - [Custom filter ve map Fonksiyonları](https://medium.com/@ibrahim.kurce/custom-filter-ve-map-fonksiyonlar%C4%B1-b2b6278edb54) - İbrahim Kürce
+  - [Map ve Reduce - Javascript](https://www.youtube.com/watch?v=SZXKTvVNX7M) - sanalonyedi :video_camera:
 
 ## Başlangıç parametre değerleri (Default Parameters)
 
@@ -141,7 +142,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [JS Ders 3 Ecmascript 6 Default Parameters (Varsayılan Parametreler)](https://www.youtube.com/watch?v=Nkm8POOhnhQ) - fehmiuyarnet :video_camera:
  -  [Javascript Notları(ECMA6)-TemplateString ve Default Deger](https://youtu.be/hAoc4HMTgcQ) - Fatih Çakıroğlu :video_camera:
  - [Genişletilmiş Parametre Yönetimi](https://www.e-adys.com/react-native/03-10-genisletilmis-parametre-yonetimi/) - Erdinç Uzun
- - :star: [ECMAScript 6: Default Values](http://ersu.me/article/javascript/ecmascript6-default-values) - Hakan Ersu
+ - [ECMAScript 6: Default Values](http://ersu.me/article/javascript/ecmascript6-default-values) - Hakan Ersu
 
 ## Spread Operator (...) ve Rest parametresi
 
@@ -216,7 +217,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ECMAScript 6 – Async / Await Keywordleri](https://www.gencayyildiz.com/blog/ecmascript-6-async-await-keywordleri/) - Gencay Yıldız
  - [Javascript ile Asenkron İşlemler](https://batikansenemoglu.com/javascript-ile-asenkron-islemler/) - Batıkan Senemoğlu
  - [Özgün Bal - Javascript'te Promise Kullanımı](https://www.youtube.com/watch?v=40YcabXaRTc) - Codefiction / Özgün Bal :video_camera:
- - :star: [Javascript’te Promise Kullanımı](http://erdoganb.com/2017/10/javascriptte-promise-kullanimi/) - Erdoğan Bavaş
+ - [Javascript’te Promise Kullanımı](http://erdoganb.com/2017/10/javascriptte-promise-kullanimi/) - Erdoğan Bavaş
 
 ## Sembol (Symbol)
 
