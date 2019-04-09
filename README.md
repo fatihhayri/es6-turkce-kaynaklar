@@ -50,8 +50,8 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ECMAScript 6 (Harmony)](https://slides.com/azizarslan/ecmascript-6) - Aziz Arslan
  - [Javascript: Eski Köye Yeni Adet](http://bilisim.io/2019/03/12/javascript-eski-koye-yeni-adet/) - Tahir Kardak
  - [Airbnb JavaScript Kılavuzu - ECMAScript 6+ (ES 2015+) Özellikleri](https://github.com/eraycetinay/javascript#ecmascript-6-es-2015-%C3%96zellikleri) - Eray Çetinay
- - :star: [Ecma Script nedir?](https://www.kodevreni.com/4149-reactjs-temel-anlat%C4%B1m/?do=findComment&comment=13810) - Halit Izgın / kodevreni
- - :star: [Javascriptin en gıcık konuları: Webpack, Babel, Eslint ve Diğerleri](https://medium.com/t%C3%BCrkiye/javascriptin-en-g%C4%B1c%C4%B1k-konular%C4%B1-webpack-babel-eslint-ve-di%C4%9Ferleri-fb2e1232a085) - Murat Turkay
+ - [Ecma Script nedir?](https://www.kodevreni.com/4149-reactjs-temel-anlat%C4%B1m/?do=findComment&comment=13810) - Halit Izgın / kodevreni
+ - [Javascriptin en gıcık konuları: Webpack, Babel, Eslint ve Diğerleri](https://medium.com/t%C3%BCrkiye/javascriptin-en-g%C4%B1c%C4%B1k-konular%C4%B1-webpack-babel-eslint-ve-di%C4%9Ferleri-fb2e1232a085) - Murat Turkay
 
 ## Değişkenler let ve const
 
