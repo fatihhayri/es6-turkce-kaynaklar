@@ -12,6 +12,8 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
 
 > yeni eklediğim yazıların başına :star: işaretini koydum.
 
+## İçindekiler
+
  - [ES6 giriş ve toplu ES6 yazıları](#es6-giriş-ve-toplu-es6-yazıları)
  - [Değişkenler let ve const](#değişkenler-let-ve-const)
  - [Template literal](#template-literal)
