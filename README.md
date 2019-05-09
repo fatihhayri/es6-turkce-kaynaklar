@@ -54,7 +54,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Airbnb JavaScript Kılavuzu - ECMAScript 6+ (ES 2015+) Özellikleri](https://github.com/eraycetinay/javascript#ecmascript-6-es-2015-%C3%96zellikleri) - Eray Çetinay
  - [Ecma Script nedir?](https://www.kodevreni.com/4149-reactjs-temel-anlat%C4%B1m/?do=findComment&comment=13810) - Halit Izgın / kodevreni
  - [Javascriptin en gıcık konuları: Webpack, Babel, Eslint ve Diğerleri](https://medium.com/t%C3%BCrkiye/javascriptin-en-g%C4%B1c%C4%B1k-konular%C4%B1-webpack-babel-eslint-ve-di%C4%9Ferleri-fb2e1232a085) - Murat Turkay
- - :star: [ECMAScript 6 - ES6 - (ES 2015) Nedir?](http://www.webcebir.com/251-ecmascript-6-es6-es-2015-nedir-dersi.html) - webcebir
+ - [ECMAScript 6 - ES6 - (ES 2015) Nedir?](http://www.webcebir.com/251-ecmascript-6-es6-es-2015-nedir-dersi.html) - webcebir
 
 ## Değişkenler let ve const
 
@@ -79,7 +79,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [JavaScript’de const ve Sabit Tanımlar](https://www.haydarcan.com/javascriptde-sabit-tanimlar-ve-string-veri-tipleri/) - Haydar Can
  - [Javascript Let,Const vs Var](https://www.youtube.com/watch?v=SZXKTvVNX7M) - sanalonyedi :video_camera:
  - [Popüler Bir Javascript İşe Alım Sorusu](http://erdoganb.com/2017/10/populer-bir-javascript-ise-alim-sorusu/) - Erdoğan Bavaş
- - :star: [JavaScript | Function Scope vs Block Scope](https://medium.com/@tugrulbayrak/javascript-scope-65e86de65cff) - Tuğrul Bayrak
+ - [JavaScript | Function Scope vs Block Scope](https://medium.com/@tugrulbayrak/javascript-scope-65e86de65cff) - Tuğrul Bayrak
 
 ## Template literal
 
