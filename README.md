@@ -82,7 +82,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Popüler Bir Javascript İşe Alım Sorusu](http://erdoganb.com/2017/10/populer-bir-javascript-ise-alim-sorusu/) - Erdoğan Bavaş
  - [JavaScript | Function Scope vs Block Scope](https://medium.com/@tugrulbayrak/javascript-scope-65e86de65cff) - Tuğrul Bayrak
  - [Modern JavaScript(ES6+) Eğitiminden Notlar](https://malikmasis.blogspot.com/2019/05/modern-javascriptes6-egitiminden-notlar.html) - malikmasis
- - :star: [Javascript | var-let-const kavramları #1](https://medium.com/@goktugsultan/https-medium-com-goktugsultan-es6-var-let-const-kavramlar-28f7512c72fc) - Götuğ Sultan
+ - [Javascript | var-let-const kavramları #1](https://medium.com/@goktugsultan/https-medium-com-goktugsultan-es6-var-let-const-kavramlar-28f7512c72fc) - Götuğ Sultan
 
 ## Template literal
 
@@ -110,6 +110,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [JS Ders 5 Ecmascript 6 Arrow Functions](https://www.youtube.com/watch?v=1_9CZTE5Qao&t=216s) - fehmiuyarnet :video_camera:
  - [ECMAScript 6 – Arrow Functions](https://www.gencayyildiz.com/blog/ecmascript-6-arrow-functions/) - Gencay Yıldız
  - [Arrow Fonksiyonu](https://www.e-adys.com/react-native/03-04-arrow-fonksiyonu/) - Erdinç Uzun
+ - :star: [javaScript ARROW(OK) FONKSİYONLAR](http://www.webcebir.com/258-javascript-arrow-ok-fonksiyonlar-dersi.html) - Webcebir
 
 ## ES6 Yeni String Metodları
 
@@ -151,6 +152,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  -  [Javascript Notları(ECMA6)-TemplateString ve Default Deger](https://youtu.be/hAoc4HMTgcQ) - Fatih Çakıroğlu :video_camera:
  - [Genişletilmiş Parametre Yönetimi](https://www.e-adys.com/react-native/03-10-genisletilmis-parametre-yonetimi/) - Erdinç Uzun
  - [ECMAScript 6: Default Values](http://ersu.me/article/javascript/ecmascript6-default-values) - Hakan Ersu
+ - :star: [javascript ES-6 Default Parameters (Varsayılan Parametreler)](http://www.webcebir.com/261-javascript-es-6-default-parameters-varsayilan-parametreler-dersi.html) - Webcebir
 
 ## Spread Operator (...) ve Rest parametresi
 
