@@ -221,7 +221,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Promise ile Asekron Javascript Kullanımı Nasıl Yapılır ?](https://www.youtube.com/watch?v=MBexO0Cfh3c) - Sadık Turan :video_camera:
  - [JS Ders 17 Ecmascript 6 Promise Nesnesi](https://www.youtube.com/watch?v=8RQzw4hA-p0) - fehmiuyarnet :video_camera:
  - [javascript Promise ile async işlemler - ders 25](https://www.youtube.com/watch?v=bIiA_E6HNc0) - Dılo abinin yeri :video_camera:
- - [Javascript’te Promise Kullanımı](https://medium.com/codefiction/javascriptte-promise-kullan%C4%B1m%C4%B1-ccca1123989a) - Özgun Bal
+ - [Javascript’te Promise Kullanımı](https://medium.com/codefiction/javascriptte-promise-kullan%C4%B1m%C4%B1-ccca1123989a) - Özgün Bal
  - [Javascript Promise nedir ?](https://www.youtube.com/watch?v=RYoA61va9og) - Fatih Çakıroğlu :video_camera:
  - [ECMAScript 6 – Promise Yapısı](https://www.gencayyildiz.com/blog/ecmascript-6-promise-yapisi/) - Gencay Yıldız
  - [ECMAScript 6 – Async / Await Keywordleri](https://www.gencayyildiz.com/blog/ecmascript-6-async-await-keywordleri/) - Gencay Yıldız
