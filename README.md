@@ -152,7 +152,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  -  [Javascript Notları(ECMA6)-TemplateString ve Default Deger](https://youtu.be/hAoc4HMTgcQ) - Fatih Çakıroğlu :video_camera:
  - [Genişletilmiş Parametre Yönetimi](https://www.e-adys.com/react-native/03-10-genisletilmis-parametre-yonetimi/) - Erdinç Uzun
  - [ECMAScript 6: Default Values](http://ersu.me/article/javascript/ecmascript6-default-values) - Hakan Ersu
- - :star: [javascript ES-6 Default Parameters (Varsayılan Parametreler)](http://www.webcebir.com/261-javascript-es-6-default-parameters-varsayilan-parametreler-dersi.html) - Webcebir
+ - [javascript ES-6 Default Parameters (Varsayılan Parametreler)](http://www.webcebir.com/261-javascript-es-6-default-parameters-varsayilan-parametreler-dersi.html) - Webcebir
 
 ## Spread Operator (...) ve Rest parametresi
 
@@ -228,6 +228,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Javascript ile Asenkron İşlemler](https://batikansenemoglu.com/javascript-ile-asenkron-islemler/) - Batıkan Senemoğlu
  - [Özgün Bal - Javascript'te Promise Kullanımı](https://www.youtube.com/watch?v=40YcabXaRTc) - Codefiction / Özgün Bal :video_camera:
  - [Javascript’te Promise Kullanımı](http://erdoganb.com/2017/10/javascriptte-promise-kullanimi/) - Erdoğan Bavaş
+ - :star:[Callback, Promise ve Async](https://youtu.be/3x2s2Bk2y4k) - Uğur AKTAŞ :video_camera:
 
 ## Sembol (Symbol)
 
