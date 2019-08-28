@@ -95,6 +95,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Javascript Notları(ECMA6)-TemplateString ve Default Deger](https://youtu.be/hAoc4HMTgcQ?t=155) - Fatih Çakıroğlu :video_camera:
  - [ECMAScript 6 – Template Literal](https://www.gencayyildiz.com/blog/ecmascript-6-template-literal/)  - Gencay Yıldız
  - [Template Literals](https://www.e-adys.com/react-native/03-09-template-literals/) - Erdinç Uzun
+ - :star: [ES6: Template literals ve tagged template literals](https://www.youtube.com/watch?v=nTDMPMxFQJo) - uçbirim :video_camera:
 
 ## Ok (Arrow) fonksiyonları
 
@@ -110,7 +111,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [JS Ders 5 Ecmascript 6 Arrow Functions](https://www.youtube.com/watch?v=1_9CZTE5Qao&t=216s) - fehmiuyarnet :video_camera:
  - [ECMAScript 6 – Arrow Functions](https://www.gencayyildiz.com/blog/ecmascript-6-arrow-functions/) - Gencay Yıldız
  - [Arrow Fonksiyonu](https://www.e-adys.com/react-native/03-04-arrow-fonksiyonu/) - Erdinç Uzun
- - :star: [javaScript ARROW(OK) FONKSİYONLAR](http://www.webcebir.com/258-javascript-arrow-ok-fonksiyonlar-dersi.html) - Webcebir
+ - [javaScript ARROW(OK) FONKSİYONLAR](http://www.webcebir.com/258-javascript-arrow-ok-fonksiyonlar-dersi.html) - Webcebir
 
 ## ES6 Yeni String Metodları
 
