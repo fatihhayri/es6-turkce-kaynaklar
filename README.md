@@ -40,7 +40,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  -  [JavaScript'in Yeni Sürümü EcmaScript 6'ya Giriş Türkçe Sunum](https://www.youtube.com/watch?v=Vp4K03xWsgE&feature=youtu.be) - Üstün Özgür :video_camera:
  - [JavaScript ES6](https://www.yusufsezer.com.tr/javascript-es6/) - Yusuf Sezer
  - [ES6: Nedir?](https://www.youtube.com/watch?v=10QS23uUvF4) - Uçbirim :video_camera:
- - [ECMAScript 6 (ES6) Nedir? Nasıl Kullanılır?](https://www.buraktokak.com/ecmascript-6-es6-nedir-nasil-kullanilir/) - Burak Tokak
+ - 🚫 ECMAScript 6 (ES6) Nedir? Nasıl Kullanılır? - https://www.buraktokak.com/ecmascript-6-es6-nedir-nasil-kullanilir/ - Burak Tokak
  - [ES6 Eğitimi - Ders 1](https://www.linkedin.com/pulse/es6-e%C4%9Fitimi-ders-1-hale-nur-%C3%A7al%C4%B1%C5%9Fkan/) - Hale Nur Çalışkan
  - [ES5, ES6, ES2016, ES.Next: JavaScript sürümleri nasıl ilerliyor?](http://oguzhan.in/es5-es6-es2016-es-next-javascript-surumleri-nasil-ilerliyor/) - Oğuzhan Aslan
  - [ES6 yazı serisi](https://indatawetrust.blogspot.com/2016/02/es6-ecmascript6-yazi-serisi.html) - Ahmet Şimşek
@@ -89,7 +89,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
 
  - [Javascript ES6'dan En Çok Kullandığım 5 Özellik - 3 Template literals](https://blog.durul.me/2018/03/21/javascript-es6-en-cok-kullandigim-5-ozellik.html) - Durul Doktoroglu
  - [javaScript Template Literal](http://www.webcebir.com/227-javascript-template-literal-dersi.html) - webcebir
- - [ECMAScript 6 ile String ve Değişken Gömme Özelliği](https://www.buraktokak.com/ecmascript-ile-string-ve-degisken-gomme-ozelligi/) - Burak Tokak
+ - 🚫 ECMAScript 6 ile String ve Değişken Gömme Özelliği - https://www.buraktokak.com/ecmascript-ile-string-ve-degisken-gomme-ozelligi/  - Burak Tokak
  - [JAVASCRIPT’TE TEMPLATE LİTERAL VE DATE OBJESİ](https://www.kodportali.com/yazilim/javascriptte-template-literal/) - Kod Portali / Muhammet Ali Can
  - [JS Ders 9 Ecmascript 6 Template Literals](https://www.youtube.com/watch?v=yF_SsBMwqQk) - fehmiuyarnet :video_camera:
  - [ES6 Template strings nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/02/es6-template-strings-nedir-nasil-kullanilir.html)
@@ -103,7 +103,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Arrow fonksiyonları - ECMAScript 6 - Türkçe Doküman](https://omergulcicek.github.io/es6/es6-temel-ozellikleri/arrow-fonksiyonlari) Ömer Gülçiçek
  - [Javascript ES6'dan En Çok Kullandığım 5 Özellik - 1 Arrow functions](https://blog.durul.me/2018/03/21/javascript-es6-en-cok-kullandigim-5-ozellik.html) - Durul Doktoroglu
  - [Nedir bu Arrow Function (ES6)](https://www.irfansimsar.com.tr/blog/yazilim/nedir-bu-arrow-function-es6/)) - İrfan Simsar
- - [ECMAScript 6 Arrow Fonksiyon Notasyonu Kullanımı](https://www.buraktokak.com/ecmascript-6-arrow-fonksiyon-notasyonu-kullanimi/) - Burak Tokak
+ - 🚫 ECMAScript 6 Arrow Fonksiyon Notasyonu Kullanımı - https://www.buraktokak.com/ecmascript-6-arrow-fonksiyon-notasyonu-kullanimi/ - Burak Tokak
  - [Arrow Function: Nerede kullanıyoruz? Neden Kullanıyoruz?](https://medium.com/@oyilmaztekin/arrow-function-nerede-kullan%C4%B1yoruz-neden-kullan%C4%B1yoruz-a45b07face82) - Özer Yılmaztekin
  - [Arrow functions - MDN Türkçe çeviri](https://developer.mozilla.org/tr/docs/Web/JavaScript/Reference/Functions/Arrow_functions) MDN
  - [ES6: Ok fonksiyon (arrow function) tanımlaması](https://www.youtube.com/watch?v=nOdEv46H0s0) - Uçbirim 
@@ -124,7 +124,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
 ## ES6 Dizi İşlemleri
 
  - [JavaScript İle Temel Dizi İşlemleri](https://cagatay.me/javascript-i%CC%87le-temel-dizi-i%CC%87%C5%9Flemleri-javascript-array-operations-de040d8ac41e) - Çağatay Çalı
- - [Javascript Array.map() Metodu ve Kullanımı](https://www.buraktokak.com/javascript-array-map-metodu-ve-kullanimi/) - Burak Tokak
+ - 🚫 Javascript Array.map() Metodu ve Kullanımı https://www.buraktokak.com/javascript-array-map-metodu-ve-kullanimi/ - Burak Tokak
  - [Javascript Map Metodu](https://yazilimtasarim.com/javascript-map-metodu/) - Mustafa Zahid EFE
  - [Javascript Filter Metodu](https://yazilimtasarim.com/__trashed-3/) - Mustafa Zahid EFE
  - [JavaScript hap yazısı : Array.some(), Array.every() ve Array.findIndex()](https://medium.com/@muratdogan/javascript-hap-yaz%C4%B1s%C4%B1-array-some-array-every-ve-array-findindex-f59aa2d87888) - Murat Doğan
@@ -209,7 +209,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
 
 ## Modüller (Modules)
 
- - [ES6 Import İfadesi ve Yöntemleri](https://www.buraktokak.com/es6-import-ifadesi-ve-yontemleri/) - Burak Tokak
+ - 🚫 ES6 Import İfadesi ve Yöntemleri - https://www.buraktokak.com/es6-import-ifadesi-ve-yontemleri/ - Burak Tokak
  - [JS Ders 13 Ecmascript 6 Modules (Modüller)](https://www.youtube.com/watch?v=CpZqChqJk8E) - fehmiuyarnet :video_camera:
  - [ES6 modules nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/03/es6-modules-nedir-nasil-kullanilir.html) - Ahmet Şimşek
  - [Ecmascript 6 Modül Sistemi](https://mehmetmasa.com.tr/javascript-dersleri/ecmascript-6-modul-sistemi/) - Mehmet Maşa
