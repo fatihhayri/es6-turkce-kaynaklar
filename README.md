@@ -47,7 +47,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES5, ES6, ES2016, ES.Next: JavaScript sürümleri nasıl ilerliyor?](http://oguzhan.in/es5-es6-es2016-es-next-javascript-surumleri-nasil-ilerliyor/) - Oğuzhan Aslan
  - [ES6 yazı serisi](https://indatawetrust.blogspot.com/2016/02/es6-ecmascript6-yazi-serisi.html) - Ahmet Şimşek
  - [ECMAScript6 nedir? Nasıl kullanılır, Neden kullanmalıyız?](https://cagatay.me/ecmascript6-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-neden-kullanmal%C4%B1y%C4%B1z-3-a1d092b7d261) - Çağatay Çalı
- - [EcmaScript 6 Nedir? Bilinmesi Gerekenler](https://mehmetmasa.com.tr/javascript-dersleri/ecmascript-6-nedir-bilinmesi-gerekenler/) - Mehmet Maşa
+ - 🚫 EcmaScript 6 Nedir? Bilinmesi Gerekenler - mehmetmasa.com.tr/javascript-dersleri/ecmascript-6-nedir-bilinmesi-gerekenler/ - Mehmet Maşa
  - [Javascript Notları(ECMA6)-Başlangıç](https://www.youtube.com/watch?v=IMnmjHlc1l0) - Fatih Çakıroğlu :video_camera:
  - [ES6 / ES7 ile Javascript e gelen yenilikler](https://yazilimgunlugu.org/es6-es7-ile-javascript-e-gelen-yenilikler/) - Yazılım Günlüğü
  - [ES6](https://dhalsim.github.io/javascript/2015/11/14/es6) - Barış Aydek
@@ -214,7 +214,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - 🚫 ES6 Import İfadesi ve Yöntemleri - buraktokak.com/es6-import-ifadesi-ve-yontemleri/ - Burak Tokak
  - [JS Ders 13 Ecmascript 6 Modules (Modüller)](https://www.youtube.com/watch?v=CpZqChqJk8E) - fehmiuyarnet :video_camera:
  - [ES6 modules nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/03/es6-modules-nedir-nasil-kullanilir.html) - Ahmet Şimşek
- - [Ecmascript 6 Modül Sistemi](https://mehmetmasa.com.tr/javascript-dersleri/ecmascript-6-modul-sistemi/) - Mehmet Maşa
+ - 🚫 Ecmascript 6 Modül Sistemi - mehmetmasa.com.tr/javascript-dersleri/ecmascript-6-modul-sistemi/ - Mehmet Maşa
  - [ECMAScript – Module.exports ve Require Komutları](https://www.gencayyildiz.com/blog/ecmascript-module-exports-ve-require-komutlari/) - Gencay Yıldız
  - [Modules](https://www.e-adys.com/react-native/03-08-modules/) - Erdinç Uzun
 
