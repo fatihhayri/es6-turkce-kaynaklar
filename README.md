@@ -12,7 +12,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
 
 > yeni eklediğim yazıların başına :star: işaretini koydum.
 
-> Sitesine erişemediğim linkler 🚫 işaretini koydum.
+> Sitesine erişemediğim yazıları 🚫 işaretiyle belirttim.
 
 ## İçindekiler
 
