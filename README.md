@@ -269,3 +269,4 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Sıfırdan JavaScript Eğitimi: Oyun Projesi ve ES6 İçerir!](https://www.udemy.com/javascripti-sfrdan-ogrenin-oyun-projesi-ve-es6-icerir/) - Sultan Kalkan :video_camera:
  - [Sıfırdan Her Yönüyle JavaScript & Node.JS](https://www.udemy.com/nodejs-egitimi/) - Mehmet Seven :video_camera:
  - [JavaScript ile Temel Programlama ve İleri Seviye JavaScript](https://www.udemy.com/javascript-ile-temel-programlama-ve-ileri-seviye-javascript/) - Doğukan Güven Nomak, Fatih Kadir Akın :video_camera:
+ - [Komple JavaScript ES6+ (2019): Node.js,Express,Angular,Mongo](https://www.udemy.com/course/full-stack-web-developer-kursu/) - Engin Demiroğ :video_camera:
