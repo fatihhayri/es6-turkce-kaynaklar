@@ -1,6 +1,6 @@
 # ES6 Türkçe Kaynaklar Listesi (:zap: Liste devamlı güncelleniyor)
 
-ES6 konuları hakkında birşeyler yazmalıyım dedim, kaynakları araştırırken bu konuda çok Türkçe kaynak olduğunu gördüm. Bu sevindirici bir durum. Sonra ES6 hakkında yazı yazmak yerine bu yazılanları kategorize edip bir liste haline getirip github'ta paylaşmak daha mantıklı olacağını düşündüm. Yeni makaleler eklendikçe veya bu makalelerden linki ölen olursa çıkarmayı hep beraber yaparız dedim. 
+ES6 konuları hakkında birşeyler yazmalıyım dedim, kaynakları araştırırken bu konuda çok Türkçe kaynak olduğunu gördüm. Bu sevindirici bir durum. Sonra ES6 hakkında yazı yazmak yerine bu yazılanları kategorize edip bir liste haline getirip github'ta paylaşmak daha mantıklı olacağını düşündüm. Yeni makaleler eklendikçe veya bu makalelerden linki ölen olursa çıkarmayı hep beraber yaparız dedim.
 
 Ben okuduğum kaynaklara göre bir sınıflandırma yaptım. Bu konuda farklı önerisi olan arkadaşların fikirlerine açığım. Zaten listenin github'ta olma sebebide bu. Bu listeyi canlı tutmak.
 
@@ -108,7 +108,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - 🚫 ECMAScript 6 Arrow Fonksiyon Notasyonu Kullanımı - buraktokak.com/ecmascript-6-arrow-fonksiyon-notasyonu-kullanimi/ - Burak Tokak
  - [Arrow Function: Nerede kullanıyoruz? Neden Kullanıyoruz?](https://medium.com/@oyilmaztekin/arrow-function-nerede-kullan%C4%B1yoruz-neden-kullan%C4%B1yoruz-a45b07face82) - Özer Yılmaztekin
  - [Arrow functions - MDN Türkçe çeviri](https://developer.mozilla.org/tr/docs/Web/JavaScript/Reference/Functions/Arrow_functions) MDN
- - [ES6: Ok fonksiyon (arrow function) tanımlaması](https://www.youtube.com/watch?v=nOdEv46H0s0) - Uçbirim 
+ - [ES6: Ok fonksiyon (arrow function) tanımlaması](https://www.youtube.com/watch?v=nOdEv46H0s0) - Uçbirim
  - [ES6 arrow functions](https://medium.com/@emrahday/es6-arrow-functions-98c07d537ec0) - Emrah
  - [Javascript EcmaScript 2015 (ES6) ile gelen Arrow Function Kullanımı](https://www.youtube.com/watch?v=0P4NqV3q7Hs) - Sadık Turan :video_camera:
  - [JS Ders 5 Ecmascript 6 Arrow Functions](https://www.youtube.com/watch?v=1_9CZTE5Qao&t=216s) - fehmiuyarnet :video_camera:
@@ -234,6 +234,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Javascript’te Promise Kullanımı](http://erdoganb.com/2017/10/javascriptte-promise-kullanimi/) - Erdoğan Bavaş
  - [Callback, Promise ve Async](https://youtu.be/3x2s2Bk2y4k) - Uğur AKTAŞ :video_camera:
  - :star: [JavaScript ES7 async await](https://www.yusufsezer.com.tr/javascript-es7-async-await/) - Yusuf Sezer
+ - [JavaScript’te Async/Await Kullanımı](https://medium.com/@isagul/javascriptte-async-await-kullan%C4%B1m%C4%B1-95be3d16b62a/) - İsa Gül
 
 ## Sembol (Symbol)
 
@@ -255,11 +256,12 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES6 Map + Set + WeakMap + WeakSet nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/03/es6-map-set-weakmap-weakset-nedir-nasil-kullanilir.html) - Ahmet Şimşek
  - [Map ve Set](https://www.e-adys.com/react-native/03-14-map-ve-set/) - Erdinç Uzun
 
-## Proxy 
+## Proxy
 
  - [JS Konseptleri #1: Proxy Nedir ve Kullanım Alanları Nelerdir?](https://www.kodportali.com/yazilim/javascript/js-konseptleri-proxy-nedir-ve-kullanim-alanlari-nelerdir/) - Kod Portali / Muhammet Ali Can
  - [ES6 Proxies](https://www.e-adys.com/react-native/03-16-es6-proxies/) - Erdinç Uzun
  - [JavaScript ve Observer İşlemleri](https://aligoren.com/javascript-ve-observer-islemleri/) - Ali Gören
+ - [JavaScript’te Proxy Kavramı](https://medium.com/@isagul/javascriptte-proxy-kavram%C4%B1-15cd57e8af06/) - İsa Gül
 
 ## Ücretli Eğitimler
 
