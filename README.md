@@ -86,6 +86,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [JavaScript | Function Scope vs Block Scope](https://medium.com/@tugrulbayrak/javascript-scope-65e86de65cff) - Tuğrul Bayrak
  - [Modern JavaScript(ES6+) Eğitiminden Notlar](https://malikmasis.blogspot.com/2019/05/modern-javascriptes6-egitiminden-notlar.html) - malikmasis
  - [Javascript | var-let-const kavramları #1](https://medium.com/@goktugsultan/https-medium-com-goktugsultan-es6-var-let-const-kavramlar-28f7512c72fc) - Götuğ Sultan
+  - :star: [Neden ? var → let, const](https://medium.com/frontend-development-with-js/neden-var-let-const-671eaaf104dd) - Onur Dayıbaşı
 
 ## Template literal
 
