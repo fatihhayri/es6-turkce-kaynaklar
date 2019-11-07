@@ -209,6 +209,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
 - [JavaScript Fonksiyonları: Üretici Fonksiyonlar - Generator Functions](http://yazilim.cevapsitesi.com/Makaleler/68/javascript-fonksiyonlari-uretici-fonksiyonlar-generator-functions) - yazilim.cevapsitesi / canora
 - [Es6 Generators nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/02/es6-generators-nedir-nasil-kullanilir.html) - Ahmet Şimşek
 - [Generators](https://www.e-adys.com/react-native/03-06-generators/) - Erdinç Uzun
+- :star: [Generatörler ve asenkron fonksiyonlar](https://medium.com/kodcular/es6-generat%C3%B6rler-ve-asenkron-fonksiyonlar-c8d964e70463) - selmansamet
 
 ## Modüller (Modules)
 
@@ -249,6 +250,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES6: Map ve Set tipleri](https://www.youtube.com/watch?v=AzrJqLCKRss) - Uçbirim :video_camera:
  - [ES6 Map + Set + WeakMap + WeakSet nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/03/es6-map-set-weakmap-weakset-nedir-nasil-kullanilir.html) - Ahmet Şimşek
  - [Map ve Set](https://www.e-adys.com/react-native/03-14-map-ve-set/) - Erdinç Uzun
+ - :star: [ES6: Map ve Set tipleri](https://medium.com/kodcular/es6-map-ve-set-tipleri-fcd40d966e3d) - selmansamet
 
 ## Map ve WeakMap Nesneleri
 
@@ -256,6 +258,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES6: Map ve Set tipleri](https://www.youtube.com/watch?v=AzrJqLCKRss) - Uçbirim :video_camera:
  - [ES6 Map + Set + WeakMap + WeakSet nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/03/es6-map-set-weakmap-weakset-nedir-nasil-kullanilir.html) - Ahmet Şimşek
  - [Map ve Set](https://www.e-adys.com/react-native/03-14-map-ve-set/) - Erdinç Uzun
+ - :star: [ES6: Map ve Set tipleri](https://medium.com/kodcular/es6-map-ve-set-tipleri-fcd40d966e3d) - selmansamet
 
 ## Proxy
 
