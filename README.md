@@ -58,7 +58,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Javascriptin en gıcık konuları: Webpack, Babel, Eslint ve Diğerleri](https://medium.com/t%C3%BCrkiye/javascriptin-en-g%C4%B1c%C4%B1k-konular%C4%B1-webpack-babel-eslint-ve-di%C4%9Ferleri-fb2e1232a085) - Murat Turkay
  - [ECMAScript 6 - ES6 - (ES 2015) Nedir?](http://www.webcebir.com/251-ecmascript-6-es6-es-2015-nedir-dersi.html) - webcebir
  - [ES6 ile Gelen Yenilikler](https://medium.com/@emreacara/es6-ile-gelen-yenilikler-8206e9d2654c) - Emre Acar
- - :star: [Javascript ES6 Notlar Part — 1](https://medium.com/@odayibasi/javascript-es6-notlar-part-1-a78acf9ba77e) - Onur Dayıbaşı
+ - [Javascript ES6 Notlar Part — 1](https://medium.com/@odayibasi/javascript-es6-notlar-part-1-a78acf9ba77e) - Onur Dayıbaşı
 
 ## Değişkenler let ve const
 
@@ -86,7 +86,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [JavaScript | Function Scope vs Block Scope](https://medium.com/@tugrulbayrak/javascript-scope-65e86de65cff) - Tuğrul Bayrak
  - [Modern JavaScript(ES6+) Eğitiminden Notlar](https://malikmasis.blogspot.com/2019/05/modern-javascriptes6-egitiminden-notlar.html) - malikmasis
  - [Javascript | var-let-const kavramları #1](https://medium.com/@goktugsultan/https-medium-com-goktugsultan-es6-var-let-const-kavramlar-28f7512c72fc) - Götuğ Sultan
-  - :star: [Neden ? var → let, const](https://medium.com/frontend-development-with-js/neden-var-let-const-671eaaf104dd) - Onur Dayıbaşı
+  - [Neden ? var → let, const](https://medium.com/frontend-development-with-js/neden-var-let-const-671eaaf104dd) - Onur Dayıbaşı
 
 ## Template literal
 
@@ -172,6 +172,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES6 Default + rest + spread nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/02/es6-default-rest-spread-nedir-nasil-kullanilir.html) - Ahmet Şimşek
  - [ECMAScript 6 – Spread Operator](https://www.gencayyildiz.com/blog/ecmascript-6-spread-operator/) - Gencay Yıldız
  - [Gelişmiş Atama](https://www.e-adys.com/react-native/03-11-gelismis-atama/) - Erdinç Uzun
+ - :star: [Javascript Harikaları-2 : Spread Syntax](https://medium.com/@thrkardak/javascript-harikalar%C4%B1-2-spread-syntax-d9abb9f8aed3) - Tahir Kardak
 
 ## Object literal
 
@@ -188,6 +189,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES6: destructuring örnekleri](https://www.youtube.com/watch?v=KbYi-LjyhHQ) - Uçbirim :video_camera:
  - [ECMAScript 6 – Destructuring](https://www.gencayyildiz.com/blog/ecmascript-6-destructuring/) - Gencay Yıldız
  - [ES6 Destructuring nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/02/es6-destructuring-nedir-nasil-kullanilir.html) - Ahmet Şimşek
+ - :star: [Javascript Harikaları-3 : Destructuring Assignment](https://medium.com/@thrkardak/javascript-harikalar%C4%B1-3-destructuring-assignment-64cbb9fe3355) - Tahir Kardak
 
 ## Sınıf (Class)
 
