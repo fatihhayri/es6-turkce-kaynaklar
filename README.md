@@ -85,7 +85,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Popüler Bir Javascript İşe Alım Sorusu](http://erdoganb.com/2017/10/populer-bir-javascript-ise-alim-sorusu/) - Erdoğan Bavaş
  - [JavaScript | Function Scope vs Block Scope](https://medium.com/@tugrulbayrak/javascript-scope-65e86de65cff) - Tuğrul Bayrak
  - [Modern JavaScript(ES6+) Eğitiminden Notlar](https://malikmasis.blogspot.com/2019/05/modern-javascriptes6-egitiminden-notlar.html) - malikmasis
- - [Javascript | var-let-const kavramları #1](https://medium.com/@goktugsultan/https-medium-com-goktugsultan-es6-var-let-const-kavramlar-28f7512c72fc) - Götuğ Sultan
+ - [Javascript | var-let-const kavramları #1](https://medium.com/@goktugsultan/https-medium-com-goktugsultan-es6-var-let-const-kavramlar-28f7512c72fc) - Göktuğ Sultan
   - [Neden ? var → let, const](https://medium.com/frontend-development-with-js/neden-var-let-const-671eaaf104dd) - Onur Dayıbaşı
 
 ## Template literal
@@ -99,7 +99,8 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Javascript Notları(ECMA6)-TemplateString ve Default Deger](https://youtu.be/hAoc4HMTgcQ?t=155) - Fatih Çakıroğlu :video_camera:
  - [ECMAScript 6 – Template Literal](https://www.gencayyildiz.com/blog/ecmascript-6-template-literal/)  - Gencay Yıldız
  - [Template Literals](https://www.e-adys.com/react-native/03-09-template-literals/) - Erdinç Uzun
- - :star: [ES6: Template literals ve tagged template literals](https://www.youtube.com/watch?v=nTDMPMxFQJo) - uçbirim :video_camera:
+ - [ES6: Template literals ve tagged template literals](https://www.youtube.com/watch?v=nTDMPMxFQJo) - uçbirim :video_camera:
+ - :star: [ES6 | Template Literals #3](https://medium.com/@goktugsultan/es6-template-literals-3-c770baccfde6) - Göktuğ Sultan
 
 ## Ok (Arrow) fonksiyonları
 
@@ -116,6 +117,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ECMAScript 6 – Arrow Functions](https://www.gencayyildiz.com/blog/ecmascript-6-arrow-functions/) - Gencay Yıldız
  - [Arrow Fonksiyonu](https://www.e-adys.com/react-native/03-04-arrow-fonksiyonu/) - Erdinç Uzun
  - [javaScript ARROW(OK) FONKSİYONLAR](http://www.webcebir.com/258-javascript-arrow-ok-fonksiyonlar-dersi.html) - Webcebir
+ - :star: [ES6 | Arrow Functions #4](https://medium.com/@goktugsultan/es6-arrow-functions-4-fcbf3ecab7) - Göktuğ Sultan
 
 ## ES6 Yeni String Metodları
 
@@ -148,6 +150,8 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Javascript’te Toplam Almanın Farklı Yöntemleri](https://medium.com/@ibrahim.kurce/javascripteki%CC%87-toplam-almanin-farkli-y%C3%B6ntemleri%CC%87-80718950a2c2) - İbrahim Kürce
  - [Custom filter ve map Fonksiyonları](https://medium.com/@ibrahim.kurce/custom-filter-ve-map-fonksiyonlar%C4%B1-b2b6278edb54) - İbrahim Kürce
   - [Map ve Reduce - Javascript](https://www.youtube.com/watch?v=SZXKTvVNX7M) - sanalonyedi :video_camera:
+  - :star: [ES6 | Map-Filter-Reduce #5](https://medium.com/@goktugsultan/es6-map-filter-reduce-5-c82284625fa8) - Göktuğ Sultan
+  - :star: [ES6 | Find-Some-Every #6](https://medium.com/@goktugsultan/es6-find-some-every-6-1c066e63876e) - Göktuğ Sultan
 
 ## Başlangıç parametre değerleri (Default Parameters)
 
@@ -158,6 +162,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Genişletilmiş Parametre Yönetimi](https://www.e-adys.com/react-native/03-10-genisletilmis-parametre-yonetimi/) - Erdinç Uzun
  - [ECMAScript 6: Default Values](http://ersu.me/article/javascript/ecmascript6-default-values) - Hakan Ersu
  - [javascript ES-6 Default Parameters (Varsayılan Parametreler)](http://www.webcebir.com/261-javascript-es-6-default-parameters-varsayilan-parametreler-dersi.html) - Webcebir
+  - :star: [Javascript | Default Parametre Atama #2](https://medium.com/@goktugsultan/javascript-default-parametre-atama-2-3b4dd9e0c055) - Göktuğ Sultan
 
 ## Spread Operator (...) ve Rest parametresi
 
@@ -172,7 +177,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES6 Default + rest + spread nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/02/es6-default-rest-spread-nedir-nasil-kullanilir.html) - Ahmet Şimşek
  - [ECMAScript 6 – Spread Operator](https://www.gencayyildiz.com/blog/ecmascript-6-spread-operator/) - Gencay Yıldız
  - [Gelişmiş Atama](https://www.e-adys.com/react-native/03-11-gelismis-atama/) - Erdinç Uzun
- - :star: [Javascript Harikaları-2 : Spread Syntax](https://medium.com/@thrkardak/javascript-harikalar%C4%B1-2-spread-syntax-d9abb9f8aed3) - Tahir Kardak
+ - [Javascript Harikaları-2 : Spread Syntax](https://medium.com/@thrkardak/javascript-harikalar%C4%B1-2-spread-syntax-d9abb9f8aed3) - Tahir Kardak
 
 ## Object literal
 
