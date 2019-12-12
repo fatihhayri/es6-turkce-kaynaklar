@@ -242,8 +242,9 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Özgün Bal - Javascript'te Promise Kullanımı](https://www.youtube.com/watch?v=40YcabXaRTc) - Codefiction / Özgün Bal :video_camera:
  - [Javascript’te Promise Kullanımı](http://erdoganb.com/2017/10/javascriptte-promise-kullanimi/) - Erdoğan Bavaş
  - [Callback, Promise ve Async](https://youtu.be/3x2s2Bk2y4k) - Uğur AKTAŞ :video_camera:
- - :star: [JavaScript ES7 async await](https://www.yusufsezer.com.tr/javascript-es7-async-await/) - Yusuf Sezer
+ - [JavaScript ES7 async await](https://www.yusufsezer.com.tr/javascript-es7-async-await/) - Yusuf Sezer
  - [JavaScript’te Async/Await Kullanımı](https://medium.com/@isagul/javascriptte-async-await-kullan%C4%B1m%C4%B1-95be3d16b62a/) - İsa Gül
+  - :star: [Promise-2 (Callback, Async, EventEmiter)](https://medium.com/frontend-development-with-js/promise-2-callback-async-eventemiter-f76ca77a6ce5) - Onur Dayıbaşı
 
 ## Sembol (Symbol)
 
