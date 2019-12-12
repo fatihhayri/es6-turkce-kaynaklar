@@ -59,6 +59,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ECMAScript 6 - ES6 - (ES 2015) Nedir?](http://www.webcebir.com/251-ecmascript-6-es6-es-2015-nedir-dersi.html) - webcebir
  - [ES6 ile Gelen Yenilikler](https://medium.com/@emreacara/es6-ile-gelen-yenilikler-8206e9d2654c) - Emre Acar
  - [Javascript ES6 Notlar Part — 1](https://medium.com/@odayibasi/javascript-es6-notlar-part-1-a78acf9ba77e) - Onur Dayıbaşı
+ - :star: [ES6 Eğitimi - Ders 1](https://www.linkedin.com/pulse/es6-e%C4%9Fitimi-ders-1-hale-nur-%C3%A7al%C4%B1%C5%9Fkan/) - Hale Nur Bolatcan
 
 ## Değişkenler let ve const
 
@@ -87,6 +88,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Modern JavaScript(ES6+) Eğitiminden Notlar](https://malikmasis.blogspot.com/2019/05/modern-javascriptes6-egitiminden-notlar.html) - malikmasis
  - [Javascript | var-let-const kavramları #1](https://medium.com/@goktugsultan/https-medium-com-goktugsultan-es6-var-let-const-kavramlar-28f7512c72fc) - Göktuğ Sultan
   - [Neden ? var → let, const](https://medium.com/frontend-development-with-js/neden-var-let-const-671eaaf104dd) - Onur Dayıbaşı
+  - :star: [ES6 Eğitimi - Ders 3 (Değişkenler)](https://www.linkedin.com/pulse/es6-e%C4%9Fitimi-ders-3-de%C4%9Fi%C5%9Fkenler-hale-nur-%C3%A7al%C4%B1%C5%9Fkan/) - Hale Nur Bolatcan
 
 ## Template literal
 
