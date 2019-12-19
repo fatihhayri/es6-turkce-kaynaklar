@@ -154,6 +154,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
   - [Map ve Reduce - Javascript](https://www.youtube.com/watch?v=SZXKTvVNX7M) - sanalonyedi :video_camera:
   - :star: [ES6 | Map-Filter-Reduce #5](https://medium.com/@goktugsultan/es6-map-filter-reduce-5-c82284625fa8) - Göktuğ Sultan
   - :star: [ES6 | Find-Some-Every #6](https://medium.com/@goktugsultan/es6-find-some-every-6-1c066e63876e) - Göktuğ Sultan
+  - :star: [JS’de ES6 ve Sonrasında Gelen Yardımcı Fonksiyonlar](https://medium.com/frontend-development-with-js/jsde-es6-ve-sonras%C4%B1nda-gelen-yard%C4%B1mc%C4%B1-fonksiyonlar-486b0b9093c8) - Onur Dayıbaşı
 
 ## Başlangıç parametre değerleri (Default Parameters)
 
