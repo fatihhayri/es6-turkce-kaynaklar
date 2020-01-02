@@ -261,7 +261,8 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES6: Map ve Set tipleri](https://www.youtube.com/watch?v=AzrJqLCKRss) - Uçbirim :video_camera:
  - [ES6 Map + Set + WeakMap + WeakSet nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/03/es6-map-set-weakmap-weakset-nedir-nasil-kullanilir.html) - Ahmet Şimşek
  - [Map ve Set](https://www.e-adys.com/react-native/03-14-map-ve-set/) - Erdinç Uzun
- - :star: [ES6: Map ve Set tipleri](https://medium.com/kodcular/es6-map-ve-set-tipleri-fcd40d966e3d) - selmansamet
+ - [ES6: Map ve Set tipleri](https://medium.com/kodcular/es6-map-ve-set-tipleri-fcd40d966e3d) - selmansamet
+ - :star: [JS ES6 Map/Set Veri Yapıları](https://medium.com/frontend-development-with-js/js-es6-map-set-veri-yap%C4%B1lar%C4%B1-5aa3b8b75528) - Onur Dayıbaşı
 
 ## Map ve WeakMap Nesneleri
 
@@ -269,7 +270,8 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES6: Map ve Set tipleri](https://www.youtube.com/watch?v=AzrJqLCKRss) - Uçbirim :video_camera:
  - [ES6 Map + Set + WeakMap + WeakSet nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/03/es6-map-set-weakmap-weakset-nedir-nasil-kullanilir.html) - Ahmet Şimşek
  - [Map ve Set](https://www.e-adys.com/react-native/03-14-map-ve-set/) - Erdinç Uzun
- - :star: [ES6: Map ve Set tipleri](https://medium.com/kodcular/es6-map-ve-set-tipleri-fcd40d966e3d) - selmansamet
+ - [ES6: Map ve Set tipleri](https://medium.com/kodcular/es6-map-ve-set-tipleri-fcd40d966e3d) - selmansamet
+ - :star: [JS ES6 Map/Set Veri Yapıları](https://medium.com/frontend-development-with-js/js-es6-map-set-veri-yap%C4%B1lar%C4%B1-5aa3b8b75528) - Onur Dayıbaşı
 
 ## Proxy
 
