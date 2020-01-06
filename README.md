@@ -60,6 +60,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES6 ile Gelen Yenilikler](https://medium.com/@emreacara/es6-ile-gelen-yenilikler-8206e9d2654c) - Emre Acar
  - [Javascript ES6 Notlar Part — 1](https://medium.com/@odayibasi/javascript-es6-notlar-part-1-a78acf9ba77e) - Onur Dayıbaşı
  - :star: [ES6 Eğitimi - Ders 1](https://www.linkedin.com/pulse/es6-e%C4%9Fitimi-ders-1-hale-nur-%C3%A7al%C4%B1%C5%9Fkan/) - Hale Nur Bolatcan
+ - [Fonksiyonel Programlama Nedir? (JavaScript ES6 Üzerinden Anlatım)](http://devnot.com/2019/fonksiyonel-programlama-nedir/) - Zafer Ayan
 
 ## Değişkenler let ve const
 
@@ -155,6 +156,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
   - :star: [ES6 | Map-Filter-Reduce #5](https://medium.com/@goktugsultan/es6-map-filter-reduce-5-c82284625fa8) - Göktuğ Sultan
   - :star: [ES6 | Find-Some-Every #6](https://medium.com/@goktugsultan/es6-find-some-every-6-1c066e63876e) - Göktuğ Sultan
   - :star: [JS’de ES6 ve Sonrasında Gelen Yardımcı Fonksiyonlar](https://medium.com/frontend-development-with-js/jsde-es6-ve-sonras%C4%B1nda-gelen-yard%C4%B1mc%C4%B1-fonksiyonlar-486b0b9093c8) - Onur Dayıbaşı
+  - [JavaScript ile Fonksiyonel Programlama: Map, Filter, Reduce](http://devnot.com/2020/javascript-ile-fonksiyonel-programlama-map-filter-reduce/) - Zafer Ayan
 
 ## Başlangıç parametre değerleri (Default Parameters)
 
