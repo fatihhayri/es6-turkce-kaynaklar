@@ -1,6 +1,6 @@
 # ES6 Türkçe Kaynaklar Listesi (:zap: Liste devamlı güncelleniyor)
 
-ES6 konuları hakkında birşeyler yazmalıyım dedim, kaynakları araştırırken bu konuda çok Türkçe kaynak olduğunu gördüm. Bu sevindirici bir durum. Sonra ES6 hakkında yazı yazmak yerine bu yazılanları kategorize edip bir liste haline getirip github'ta paylaşmak daha mantıklı olacağını düşündüm. Yeni makaleler eklendikçe veya bu makalelerden linki ölen olursa çıkarmayı hep beraber yaparız dedim. 
+ES6 konuları hakkında birşeyler yazmalıyım dedim, kaynakları araştırırken bu konuda çok Türkçe kaynak olduğunu gördüm. Bu sevindirici bir durum. Sonra ES6 hakkında yazı yazmak yerine bu yazılanları kategorize edip bir liste haline getirip github'ta paylaşmak daha mantıklı olacağını düşündüm. Yeni makaleler eklendikçe veya bu makalelerden linki ölen olursa çıkarmayı hep beraber yaparız dedim.
 
 Ben okuduğum kaynaklara göre bir sınıflandırma yaptım. Bu konuda farklı önerisi olan arkadaşların fikirlerine açığım. Zaten listenin github'ta olma sebebide bu. Bu listeyi canlı tutmak.
 
@@ -58,7 +58,8 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Javascriptin en gıcık konuları: Webpack, Babel, Eslint ve Diğerleri](https://medium.com/t%C3%BCrkiye/javascriptin-en-g%C4%B1c%C4%B1k-konular%C4%B1-webpack-babel-eslint-ve-di%C4%9Ferleri-fb2e1232a085) - Murat Turkay
  - [ECMAScript 6 - ES6 - (ES 2015) Nedir?](http://www.webcebir.com/251-ecmascript-6-es6-es-2015-nedir-dersi.html) - webcebir
  - [ES6 ile Gelen Yenilikler](https://medium.com/@emreacara/es6-ile-gelen-yenilikler-8206e9d2654c) - Emre Acar
- - :star: [Javascript ES6 Notlar Part — 1](https://medium.com/@odayibasi/javascript-es6-notlar-part-1-a78acf9ba77e) - Onur Dayıbaşı
+ - [Javascript ES6 Notlar Part — 1](https://medium.com/@odayibasi/javascript-es6-notlar-part-1-a78acf9ba77e) - Onur Dayıbaşı
+ - :star: [ES6 Eğitimi - Ders 1](https://www.linkedin.com/pulse/es6-e%C4%9Fitimi-ders-1-hale-nur-%C3%A7al%C4%B1%C5%9Fkan/) - Hale Nur Bolatcan
 
 ## Değişkenler let ve const
 
@@ -85,7 +86,9 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Popüler Bir Javascript İşe Alım Sorusu](http://erdoganb.com/2017/10/populer-bir-javascript-ise-alim-sorusu/) - Erdoğan Bavaş
  - [JavaScript | Function Scope vs Block Scope](https://medium.com/@tugrulbayrak/javascript-scope-65e86de65cff) - Tuğrul Bayrak
  - [Modern JavaScript(ES6+) Eğitiminden Notlar](https://malikmasis.blogspot.com/2019/05/modern-javascriptes6-egitiminden-notlar.html) - malikmasis
- - [Javascript | var-let-const kavramları #1](https://medium.com/@goktugsultan/https-medium-com-goktugsultan-es6-var-let-const-kavramlar-28f7512c72fc) - Götuğ Sultan
+ - [Javascript | var-let-const kavramları #1](https://medium.com/@goktugsultan/https-medium-com-goktugsultan-es6-var-let-const-kavramlar-28f7512c72fc) - Göktuğ Sultan
+  - [Neden ? var → let, const](https://medium.com/frontend-development-with-js/neden-var-let-const-671eaaf104dd) - Onur Dayıbaşı
+  - :star: [ES6 Eğitimi - Ders 3 (Değişkenler)](https://www.linkedin.com/pulse/es6-e%C4%9Fitimi-ders-3-de%C4%9Fi%C5%9Fkenler-hale-nur-%C3%A7al%C4%B1%C5%9Fkan/) - Hale Nur Bolatcan
 
 ## Template literal
 
@@ -98,7 +101,8 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Javascript Notları(ECMA6)-TemplateString ve Default Deger](https://youtu.be/hAoc4HMTgcQ?t=155) - Fatih Çakıroğlu :video_camera:
  - [ECMAScript 6 – Template Literal](https://www.gencayyildiz.com/blog/ecmascript-6-template-literal/)  - Gencay Yıldız
  - [Template Literals](https://www.e-adys.com/react-native/03-09-template-literals/) - Erdinç Uzun
- - :star: [ES6: Template literals ve tagged template literals](https://www.youtube.com/watch?v=nTDMPMxFQJo) - uçbirim :video_camera:
+ - [ES6: Template literals ve tagged template literals](https://www.youtube.com/watch?v=nTDMPMxFQJo) - uçbirim :video_camera:
+ - :star: [ES6 | Template Literals #3](https://medium.com/@goktugsultan/es6-template-literals-3-c770baccfde6) - Göktuğ Sultan
 
 ## Ok (Arrow) fonksiyonları
 
@@ -108,13 +112,14 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - 🚫 ECMAScript 6 Arrow Fonksiyon Notasyonu Kullanımı - buraktokak.com/ecmascript-6-arrow-fonksiyon-notasyonu-kullanimi/ - Burak Tokak
  - [Arrow Function: Nerede kullanıyoruz? Neden Kullanıyoruz?](https://medium.com/@oyilmaztekin/arrow-function-nerede-kullan%C4%B1yoruz-neden-kullan%C4%B1yoruz-a45b07face82) - Özer Yılmaztekin
  - [Arrow functions - MDN Türkçe çeviri](https://developer.mozilla.org/tr/docs/Web/JavaScript/Reference/Functions/Arrow_functions) MDN
- - [ES6: Ok fonksiyon (arrow function) tanımlaması](https://www.youtube.com/watch?v=nOdEv46H0s0) - Uçbirim 
+ - [ES6: Ok fonksiyon (arrow function) tanımlaması](https://www.youtube.com/watch?v=nOdEv46H0s0) - Uçbirim
  - [ES6 arrow functions](https://medium.com/@emrahday/es6-arrow-functions-98c07d537ec0) - Emrah
  - [Javascript EcmaScript 2015 (ES6) ile gelen Arrow Function Kullanımı](https://www.youtube.com/watch?v=0P4NqV3q7Hs) - Sadık Turan :video_camera:
  - [JS Ders 5 Ecmascript 6 Arrow Functions](https://www.youtube.com/watch?v=1_9CZTE5Qao&t=216s) - fehmiuyarnet :video_camera:
  - [ECMAScript 6 – Arrow Functions](https://www.gencayyildiz.com/blog/ecmascript-6-arrow-functions/) - Gencay Yıldız
  - [Arrow Fonksiyonu](https://www.e-adys.com/react-native/03-04-arrow-fonksiyonu/) - Erdinç Uzun
  - [javaScript ARROW(OK) FONKSİYONLAR](http://www.webcebir.com/258-javascript-arrow-ok-fonksiyonlar-dersi.html) - Webcebir
+ - :star: [ES6 | Arrow Functions #4](https://medium.com/@goktugsultan/es6-arrow-functions-4-fcbf3ecab7) - Göktuğ Sultan
 
 ## ES6 Yeni String Metodları
 
@@ -147,6 +152,9 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Javascript’te Toplam Almanın Farklı Yöntemleri](https://medium.com/@ibrahim.kurce/javascripteki%CC%87-toplam-almanin-farkli-y%C3%B6ntemleri%CC%87-80718950a2c2) - İbrahim Kürce
  - [Custom filter ve map Fonksiyonları](https://medium.com/@ibrahim.kurce/custom-filter-ve-map-fonksiyonlar%C4%B1-b2b6278edb54) - İbrahim Kürce
   - [Map ve Reduce - Javascript](https://www.youtube.com/watch?v=SZXKTvVNX7M) - sanalonyedi :video_camera:
+  - :star: [ES6 | Map-Filter-Reduce #5](https://medium.com/@goktugsultan/es6-map-filter-reduce-5-c82284625fa8) - Göktuğ Sultan
+  - :star: [ES6 | Find-Some-Every #6](https://medium.com/@goktugsultan/es6-find-some-every-6-1c066e63876e) - Göktuğ Sultan
+  - :star: [JS’de ES6 ve Sonrasında Gelen Yardımcı Fonksiyonlar](https://medium.com/frontend-development-with-js/jsde-es6-ve-sonras%C4%B1nda-gelen-yard%C4%B1mc%C4%B1-fonksiyonlar-486b0b9093c8) - Onur Dayıbaşı
 
 ## Başlangıç parametre değerleri (Default Parameters)
 
@@ -157,6 +165,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Genişletilmiş Parametre Yönetimi](https://www.e-adys.com/react-native/03-10-genisletilmis-parametre-yonetimi/) - Erdinç Uzun
  - [ECMAScript 6: Default Values](http://ersu.me/article/javascript/ecmascript6-default-values) - Hakan Ersu
  - [javascript ES-6 Default Parameters (Varsayılan Parametreler)](http://www.webcebir.com/261-javascript-es-6-default-parameters-varsayilan-parametreler-dersi.html) - Webcebir
+  - :star: [Javascript | Default Parametre Atama #2](https://medium.com/@goktugsultan/javascript-default-parametre-atama-2-3b4dd9e0c055) - Göktuğ Sultan
 
 ## Spread Operator (...) ve Rest parametresi
 
@@ -171,6 +180,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES6 Default + rest + spread nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/02/es6-default-rest-spread-nedir-nasil-kullanilir.html) - Ahmet Şimşek
  - [ECMAScript 6 – Spread Operator](https://www.gencayyildiz.com/blog/ecmascript-6-spread-operator/) - Gencay Yıldız
  - [Gelişmiş Atama](https://www.e-adys.com/react-native/03-11-gelismis-atama/) - Erdinç Uzun
+ - [Javascript Harikaları-2 : Spread Syntax](https://medium.com/@thrkardak/javascript-harikalar%C4%B1-2-spread-syntax-d9abb9f8aed3) - Tahir Kardak
 
 ## Object literal
 
@@ -187,6 +197,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES6: destructuring örnekleri](https://www.youtube.com/watch?v=KbYi-LjyhHQ) - Uçbirim :video_camera:
  - [ECMAScript 6 – Destructuring](https://www.gencayyildiz.com/blog/ecmascript-6-destructuring/) - Gencay Yıldız
  - [ES6 Destructuring nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/02/es6-destructuring-nedir-nasil-kullanilir.html) - Ahmet Şimşek
+ - :star: [Javascript Harikaları-3 : Destructuring Assignment](https://medium.com/@thrkardak/javascript-harikalar%C4%B1-3-destructuring-assignment-64cbb9fe3355) - Tahir Kardak
 
 ## Sınıf (Class)
 
@@ -208,6 +219,8 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
 - [JavaScript Fonksiyonları: Üretici Fonksiyonlar - Generator Functions](http://yazilim.cevapsitesi.com/Makaleler/68/javascript-fonksiyonlari-uretici-fonksiyonlar-generator-functions) - yazilim.cevapsitesi / canora
 - [Es6 Generators nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/02/es6-generators-nedir-nasil-kullanilir.html) - Ahmet Şimşek
 - [Generators](https://www.e-adys.com/react-native/03-06-generators/) - Erdinç Uzun
+- [Generatörler ve asenkron fonksiyonlar](https://medium.com/kodcular/es6-generat%C3%B6rler-ve-asenkron-fonksiyonlar-c8d964e70463) - selmansamet
+- :star: [Javascript’de Generators](https://medium.com/frontend-development-with-js/javascriptde-generators-403e33d3a6f1) - Onur Dayıbaşı
 
 ## Modüller (Modules)
 
@@ -233,7 +246,9 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Özgün Bal - Javascript'te Promise Kullanımı](https://www.youtube.com/watch?v=40YcabXaRTc) - Codefiction / Özgün Bal :video_camera:
  - [Javascript’te Promise Kullanımı](http://erdoganb.com/2017/10/javascriptte-promise-kullanimi/) - Erdoğan Bavaş
  - [Callback, Promise ve Async](https://youtu.be/3x2s2Bk2y4k) - Uğur AKTAŞ :video_camera:
- - :star: [JavaScript ES7 async await](https://www.yusufsezer.com.tr/javascript-es7-async-await/) - Yusuf Sezer
+ - [JavaScript ES7 async await](https://www.yusufsezer.com.tr/javascript-es7-async-await/) - Yusuf Sezer
+ - [JavaScript’te Async/Await Kullanımı](https://medium.com/@isagul/javascriptte-async-await-kullan%C4%B1m%C4%B1-95be3d16b62a/) - İsa Gül
+  - :star: [Promise-2 (Callback, Async, EventEmiter)](https://medium.com/frontend-development-with-js/promise-2-callback-async-eventemiter-f76ca77a6ce5) - Onur Dayıbaşı
 
 ## Sembol (Symbol)
 
@@ -247,6 +262,8 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES6: Map ve Set tipleri](https://www.youtube.com/watch?v=AzrJqLCKRss) - Uçbirim :video_camera:
  - [ES6 Map + Set + WeakMap + WeakSet nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/03/es6-map-set-weakmap-weakset-nedir-nasil-kullanilir.html) - Ahmet Şimşek
  - [Map ve Set](https://www.e-adys.com/react-native/03-14-map-ve-set/) - Erdinç Uzun
+ - [ES6: Map ve Set tipleri](https://medium.com/kodcular/es6-map-ve-set-tipleri-fcd40d966e3d) - selmansamet
+ - :star: [JS ES6 Map/Set Veri Yapıları](https://medium.com/frontend-development-with-js/js-es6-map-set-veri-yap%C4%B1lar%C4%B1-5aa3b8b75528) - Onur Dayıbaşı
 
 ## Map ve WeakMap Nesneleri
 
@@ -254,12 +271,15 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES6: Map ve Set tipleri](https://www.youtube.com/watch?v=AzrJqLCKRss) - Uçbirim :video_camera:
  - [ES6 Map + Set + WeakMap + WeakSet nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/03/es6-map-set-weakmap-weakset-nedir-nasil-kullanilir.html) - Ahmet Şimşek
  - [Map ve Set](https://www.e-adys.com/react-native/03-14-map-ve-set/) - Erdinç Uzun
+ - [ES6: Map ve Set tipleri](https://medium.com/kodcular/es6-map-ve-set-tipleri-fcd40d966e3d) - selmansamet
+ - :star: [JS ES6 Map/Set Veri Yapıları](https://medium.com/frontend-development-with-js/js-es6-map-set-veri-yap%C4%B1lar%C4%B1-5aa3b8b75528) - Onur Dayıbaşı
 
-## Proxy 
+## Proxy
 
  - [JS Konseptleri #1: Proxy Nedir ve Kullanım Alanları Nelerdir?](https://www.kodportali.com/yazilim/javascript/js-konseptleri-proxy-nedir-ve-kullanim-alanlari-nelerdir/) - Kod Portali / Muhammet Ali Can
  - [ES6 Proxies](https://www.e-adys.com/react-native/03-16-es6-proxies/) - Erdinç Uzun
  - [JavaScript ve Observer İşlemleri](https://aligoren.com/javascript-ve-observer-islemleri/) - Ali Gören
+ - [JavaScript’te Proxy Kavramı](https://medium.com/@isagul/javascriptte-proxy-kavram%C4%B1-15cd57e8af06/) - İsa Gül
 
 ## Ücretli Eğitimler
 
@@ -269,3 +289,4 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Sıfırdan JavaScript Eğitimi: Oyun Projesi ve ES6 İçerir!](https://www.udemy.com/javascripti-sfrdan-ogrenin-oyun-projesi-ve-es6-icerir/) - Sultan Kalkan :video_camera:
  - [Sıfırdan Her Yönüyle JavaScript & Node.JS](https://www.udemy.com/nodejs-egitimi/) - Mehmet Seven :video_camera:
  - [JavaScript ile Temel Programlama ve İleri Seviye JavaScript](https://www.udemy.com/javascript-ile-temel-programlama-ve-ileri-seviye-javascript/) - Doğukan Güven Nomak, Fatih Kadir Akın :video_camera:
+ - [Komple JavaScript ES6+ (2019): Node.js,Express,Angular,Mongo](https://www.udemy.com/course/full-stack-web-developer-kursu/) - Engin Demiroğ :video_camera:
