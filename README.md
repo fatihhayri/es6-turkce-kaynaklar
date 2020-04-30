@@ -48,8 +48,8 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES6 yazı serisi](https://indatawetrust.blogspot.com/2016/02/es6-ecmascript6-yazi-serisi.html) - Ahmet Şimşek
  - [ECMAScript6 nedir? Nasıl kullanılır, Neden kullanmalıyız?](https://cagatay.me/ecmascript6-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-neden-kullanmal%C4%B1y%C4%B1z-3-a1d092b7d261) - Çağatay Çalı
  - 🚫 EcmaScript 6 Nedir? Bilinmesi Gerekenler - mehmetmasa.com.tr/javascript-dersleri/ecmascript-6-nedir-bilinmesi-gerekenler/ - Mehmet Maşa
- - 🚫 Javascript Notları(ECMA6)-Başlangıç - https://www.youtube.com/watch?v=IMnmjHlc1l0 - Fatih Çakıroğlu :video_camera:
- - 🚫 ES6 / ES7 ile Javascript e gelen yenilikler - https://yazilimgunlugu.org/es6-es7-ile-javascript-e-gelen-yenilikler/ - Yazılım Günlüğü
+ - 🚫 Javascript Notları(ECMA6)-Başlangıç - www.youtube.com/watch?v=IMnmjHlc1l0 - Fatih Çakıroğlu :video_camera:
+ - 🚫 ES6 / ES7 ile Javascript e gelen yenilikler - yazilimgunlugu.org/es6-es7-ile-javascript-e-gelen-yenilikler/ - Yazılım Günlüğü
  - [ES6](https://dhalsim.github.io/javascript/2015/11/14/es6) - Barış Aydek
  - [ECMAScript 6 (Harmony)](https://slides.com/azizarslan/ecmascript-6) - Aziz Arslan
  - [Javascript: Eski Köye Yeni Adet](http://bilisim.io/2019/03/12/javascript-eski-koye-yeni-adet/) - Tahir Kardak
@@ -58,7 +58,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Javascriptin en gıcık konuları: Webpack, Babel, Eslint ve Diğerleri](https://medium.com/t%C3%BCrkiye/javascriptin-en-g%C4%B1c%C4%B1k-konular%C4%B1-webpack-babel-eslint-ve-di%C4%9Ferleri-fb2e1232a085) - Murat Turkay
  - [ECMAScript 6 - ES6 - (ES 2015) Nedir?](http://www.webcebir.com/251-ecmascript-6-es6-es-2015-nedir-dersi.html) - webcebir
  - [ES6 ile Gelen Yenilikler](https://medium.com/@emreacara/es6-ile-gelen-yenilikler-8206e9d2654c) - Emre Acar
- - 🚫 Javascript ES6 Notlar Part — 1 - https://medium.com/@odayibasi/javascript-es6-notlar-part-1-a78acf9ba77e - Onur Dayıbaşı
+ - 🚫 Javascript ES6 Notlar Part — 1 - medium.com/@odayibasi/javascript-es6-notlar-part-1-a78acf9ba77e - Onur Dayıbaşı
  - :star: [ES6 Eğitimi - Ders 1](https://www.linkedin.com/pulse/es6-e%C4%9Fitimi-ders-1-hale-nur-%C3%A7al%C4%B1%C5%9Fkan/) - Hale Nur Bolatcan
  - [Fonksiyonel Programlama Nedir? (JavaScript ES6 Üzerinden Anlatım)](http://devnot.com/2019/fonksiyonel-programlama-nedir/) - Zafer Ayan
 
@@ -74,7 +74,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES6 Eğitimi - Ders 3 (Değişkenler)](https://www.linkedin.com/pulse/es6-e%C4%9Fitimi-ders-3-de%C4%9Fi%C5%9Fkenler-hale-nur-%C3%A7al%C4%B1%C5%9Fkan/)  - Hale Nur Çalışkan
  - [JS Ders 1 Ecmascript 6 let kullanımı](https://www.youtube.com/watch?v=GanwZdZReco) - fehmiuyarnet :video_camera:
  - [JS Ders 2 Ecmascript 6 const kullanımı](https://www.youtube.com/watch?v=JrzV2bjEI-Q) - fehmiuyarnet :video_camera:
- - 🚫 Javascript Notları(ECMA6)-Değişlenler - https://www.youtube.com/watch?v=QnDI24SQh3c - Fatih Çakıroğlu :video_camera:
+ - 🚫 Javascript Notları(ECMA6)-Değişlenler - youtube.com/watch?v=QnDI24SQh3c - Fatih Çakıroğlu :video_camera:
  - [ECMAScript 6 – let Değişken Tipi](https://www.gencayyildiz.com/blog/ecmascript-6-let-degisken-tipi/) - Gencay Yıldız
  - [Ecmascript 6 Dersleri 1 - Var, Let ve Const - Part 1](https://www.youtube.com/watch?v=oYdr1w9Ti1M) - Yazılım Bilimi :video_camera:
  - [Scope, let ve const](https://www.e-adys.com/react-native/03-03-scope-let-ve-const/) - Erdinç Uzun
@@ -99,7 +99,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [JAVASCRIPT’TE TEMPLATE LİTERAL VE DATE OBJESİ](https://www.kodportali.com/yazilim/javascriptte-template-literal/) - Kod Portali / Muhammet Ali Can
  - [JS Ders 9 Ecmascript 6 Template Literals](https://www.youtube.com/watch?v=yF_SsBMwqQk) - fehmiuyarnet :video_camera:
  - [ES6 Template strings nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/02/es6-template-strings-nedir-nasil-kullanilir.html)
- - [Javascript Notları(ECMA6)-TemplateString ve Default Deger](https://youtu.be/hAoc4HMTgcQ?t=155) - Fatih Çakıroğlu :video_camera:
+ - 🚫 Javascript Notları(ECMA6)-TemplateString ve Default Deger - youtu.be/hAoc4HMTgcQ?t=155 - Fatih Çakıroğlu :video_camera:
  - [ECMAScript 6 – Template Literal](https://www.gencayyildiz.com/blog/ecmascript-6-template-literal/)  - Gencay Yıldız
  - [Template Literals](https://www.e-adys.com/react-native/03-09-template-literals/) - Erdinç Uzun
  - [ES6: Template literals ve tagged template literals](https://www.youtube.com/watch?v=nTDMPMxFQJo) - uçbirim :video_camera:
@@ -142,12 +142,12 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Javascript: Map, Reduce Ve Filter — Bölüm 2](http://bilisim.io/2019/02/15/javascript-map-reduce-ve-filter%E2%80%8A-%E2%80%8Abolum-2/) - bilisim.io / Tahir Kardak
  - [Javascript: Map, Reduce Ve Filter — Bölüm 3](http://bilisim.io/2019/02/15/javascript-map-reduce-ve-filter%E2%80%8A-%E2%80%8Abolum-3/) - bilisim.io / Tahir Kardak
  - [Javascript: Map, Reduce Ve Filter — Bölüm 4](http://bilisim.io/2019/02/15/javascript-map-reduce-ve-filter%E2%80%8A-%E2%80%8Abolum-4/) - bilisim.io / Tahir Kardak
- - [Javascript Notları(ECMA6)-Diziler](https://www.youtube.com/watch?v=XFoID44CRzQ)  - Fatih Çakıroğlu :video_camera:
- - [Javascript Notları(ECMA6)-Diziler[Object.Keys]](https://www.youtube.com/watch?v=hB6FvYrwxbs) - Fatih Çakıroğlu :video_camera:
- - [ Javascript Notları(ECMA6)-Diziler[Some]](https://www.youtube.com/watch?v=cmiwG_lRAgg)  - Fatih Çakıroğlu :video_camera:
- - [Javascript Notları(ECMA6)-Diziler[Find]](https://www.youtube.com/watch?v=E7QHgnVarAQ) - Fatih Çakıroğlu :video_camera:
- - [Javascript Notları(ECMA6)-Diziler[Filter]](https://www.youtube.com/watch?v=4dyeVNVobS8) - Fatih Çakıroğlu :video_camera:
- - [Javascript Notları(ECMA6)-Diziler\[Reduce\]](https://www.youtube.com/watch?v=7DRCi4kZZbA)  - Fatih Çakıroğlu :video_camera:
+ - 🚫 Javascript Notları(ECMA6)-Diziler youtube.com/watch?v=XFoID44CRzQ  - Fatih Çakıroğlu :video_camera:
+ - 🚫 Javascript Notları(ECMA6)-Diziler[Object.Keys] - youtube.com/watch?v=hB6FvYrwxbs - Fatih Çakıroğlu :video_camera:
+ - 🚫  Javascript Notları(ECMA6)-Diziler[Some] - youtube.com/watch?v=cmiwG_lRAgg  - Fatih Çakıroğlu :video_camera:
+ - 🚫 Javascript Notları(ECMA6)-Diziler[Find] - youtube.com/watch?v=E7QHgnVarAQ - Fatih Çakıroğlu :video_camera:
+ - 🚫 Javascript Notları(ECMA6)-Diziler[Filter] - youtube.com/watch?v=4dyeVNVobS8 - Fatih Çakıroğlu :video_camera:
+ - 🚫 Javascript Notları(ECMA6)-Diziler\[Reduce\] - youtube.com/watch?v=7DRCi4kZZbA  - Fatih Çakıroğlu :video_camera:
  - [JavaScript Filter Map Reduce](https://medium.com/@clkgkhn/javascript-filter-map-reduce-1c3191d99ad2) - Gökhan Çelik
  - [Javascript reduce Fonksiyonu](https://medium.com/@ibrahim.kurce/javascript-reduce-fonksiyonu-da5e09ba2e44) - İbrahim Kürce
  - [Javascript’te Toplam Almanın Farklı Yöntemleri](https://medium.com/@ibrahim.kurce/javascripteki%CC%87-toplam-almanin-farkli-y%C3%B6ntemleri%CC%87-80718950a2c2) - İbrahim Kürce
@@ -163,7 +163,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Parametreleri varsayılan değerleriyle kullanmak - ECMAScript 6 - Türkçe Doküman](https://omergulcicek.github.io/es6/es6-temel-ozellikleri/parametreleri-varsayilan-degerleriyle-kullanmak) - Ömer Gülçiçek
  - [Parametre isimlerini kullanmak - ECMAScript 6 - Türkçe Doküman](https://omergulcicek.github.io/es6/es6-temel-ozellikleri/parametre-isimlerini-kullanmak) - Ömer Gülçiçek
  - [JS Ders 3 Ecmascript 6 Default Parameters (Varsayılan Parametreler)](https://www.youtube.com/watch?v=Nkm8POOhnhQ) - fehmiuyarnet :video_camera:
- -  [Javascript Notları(ECMA6)-TemplateString ve Default Deger](https://youtu.be/hAoc4HMTgcQ) - Fatih Çakıroğlu :video_camera:
+ - 🚫 Javascript Notları(ECMA6)-TemplateString ve Default Deger - youtu.be/hAoc4HMTgcQ - Fatih Çakıroğlu :video_camera:
  - [Genişletilmiş Parametre Yönetimi](https://www.e-adys.com/react-native/03-10-genisletilmis-parametre-yonetimi/) - Erdinç Uzun
  - [ECMAScript 6: Default Values](http://ersu.me/article/javascript/ecmascript6-default-values) - Hakan Ersu
  - [javascript ES-6 Default Parameters (Varsayılan Parametreler)](http://www.webcebir.com/261-javascript-es-6-default-parameters-varsayilan-parametreler-dersi.html) - Webcebir
@@ -209,8 +209,8 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Javascript’de class tanımlama ve diğer class işlemleri](http://www.muratoner.net/javascript/javascriptde-class-tanimlama-ve-diger-class-islemleri) - Murat Öner
  - [ecmascript class ders](https://www.youtube.com/watch?v=syxq-kWp91s&vl=tr) - Dılo abinin yeri :video_camera:
  - [Javascript sınıf tanımlama](http://boraozer.com/2018/09/19/javascript-sinif-tanimlama/) - Bora Özer
- - [Javascript(ecmascript 6) Notları-class](https://youtu.be/BsewfjaJKFE) - Fatih Çakıroğlu :video_camera:
- - [Javascript Notları(ECMA6)-Miras alma](https://www.youtube.com/watch?v=vKxTKlllMMQ) - Fatih Çakıroğlu :video_camera:
+ - 🚫 Javascript(ecmascript 6) Notları-class - youtu.be/BsewfjaJKFE - Fatih Çakıroğlu :video_camera:
+ - 🚫 Javascript Notları(ECMA6)-Miras alma -youtube.com/watch?v=vKxTKlllMMQ - Fatih Çakıroğlu :video_camera:
  - [Class (Sınıf) Kavramı](https://www.e-adys.com/react-native/03-07-class-sinif-kavrami/) - Erdinç Uzun
 
 ## Genarator fonksiyonlar
@@ -242,7 +242,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [JS Ders 17 Ecmascript 6 Promise Nesnesi](https://www.youtube.com/watch?v=8RQzw4hA-p0) - fehmiuyarnet :video_camera:
  - [javascript Promise ile async işlemler - ders 25](https://www.youtube.com/watch?v=bIiA_E6HNc0) - Dılo abinin yeri :video_camera:
  - [Javascript’te Promise Kullanımı](https://medium.com/codefiction/javascriptte-promise-kullan%C4%B1m%C4%B1-ccca1123989a) - Özgün Bal
- - [Javascript Promise nedir ?](https://www.youtube.com/watch?v=RYoA61va9og) - Fatih Çakıroğlu :video_camera:
+ - 🚫 Javascript Promise nedir ? - youtube.com/watch?v=RYoA61va9og - Fatih Çakıroğlu :video_camera:
  - [ECMAScript 6 – Promise Yapısı](https://www.gencayyildiz.com/blog/ecmascript-6-promise-yapisi/) - Gencay Yıldız
  - [ECMAScript 6 – Async / Await Keywordleri](https://www.gencayyildiz.com/blog/ecmascript-6-async-await-keywordleri/) - Gencay Yıldız
  - [Javascript ile Asenkron İşlemler](https://batikansenemoglu.com/javascript-ile-asenkron-islemler/) - Batıkan Senemoğlu
