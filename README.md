@@ -48,8 +48,8 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES6 yazı serisi](https://indatawetrust.blogspot.com/2016/02/es6-ecmascript6-yazi-serisi.html) - Ahmet Şimşek
  - [ECMAScript6 nedir? Nasıl kullanılır, Neden kullanmalıyız?](https://cagatay.me/ecmascript6-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-neden-kullanmal%C4%B1y%C4%B1z-3-a1d092b7d261) - Çağatay Çalı
  - 🚫 EcmaScript 6 Nedir? Bilinmesi Gerekenler - mehmetmasa.com.tr/javascript-dersleri/ecmascript-6-nedir-bilinmesi-gerekenler/ - Mehmet Maşa
- - [Javascript Notları(ECMA6)-Başlangıç](https://www.youtube.com/watch?v=IMnmjHlc1l0) - Fatih Çakıroğlu :video_camera:
- - [ES6 / ES7 ile Javascript e gelen yenilikler](https://yazilimgunlugu.org/es6-es7-ile-javascript-e-gelen-yenilikler/) - Yazılım Günlüğü
+ - 🚫 Javascript Notları(ECMA6)-Başlangıç - https://www.youtube.com/watch?v=IMnmjHlc1l0 - Fatih Çakıroğlu :video_camera:
+ - 🚫 ES6 / ES7 ile Javascript e gelen yenilikler - https://yazilimgunlugu.org/es6-es7-ile-javascript-e-gelen-yenilikler/ - Yazılım Günlüğü
  - [ES6](https://dhalsim.github.io/javascript/2015/11/14/es6) - Barış Aydek
  - [ECMAScript 6 (Harmony)](https://slides.com/azizarslan/ecmascript-6) - Aziz Arslan
  - [Javascript: Eski Köye Yeni Adet](http://bilisim.io/2019/03/12/javascript-eski-koye-yeni-adet/) - Tahir Kardak
@@ -58,7 +58,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Javascriptin en gıcık konuları: Webpack, Babel, Eslint ve Diğerleri](https://medium.com/t%C3%BCrkiye/javascriptin-en-g%C4%B1c%C4%B1k-konular%C4%B1-webpack-babel-eslint-ve-di%C4%9Ferleri-fb2e1232a085) - Murat Turkay
  - [ECMAScript 6 - ES6 - (ES 2015) Nedir?](http://www.webcebir.com/251-ecmascript-6-es6-es-2015-nedir-dersi.html) - webcebir
  - [ES6 ile Gelen Yenilikler](https://medium.com/@emreacara/es6-ile-gelen-yenilikler-8206e9d2654c) - Emre Acar
- - [Javascript ES6 Notlar Part — 1](https://medium.com/@odayibasi/javascript-es6-notlar-part-1-a78acf9ba77e) - Onur Dayıbaşı
+ - 🚫 Javascript ES6 Notlar Part — 1 - https://medium.com/@odayibasi/javascript-es6-notlar-part-1-a78acf9ba77e - Onur Dayıbaşı
  - :star: [ES6 Eğitimi - Ders 1](https://www.linkedin.com/pulse/es6-e%C4%9Fitimi-ders-1-hale-nur-%C3%A7al%C4%B1%C5%9Fkan/) - Hale Nur Bolatcan
  - [Fonksiyonel Programlama Nedir? (JavaScript ES6 Üzerinden Anlatım)](http://devnot.com/2019/fonksiyonel-programlama-nedir/) - Zafer Ayan
 
@@ -74,7 +74,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES6 Eğitimi - Ders 3 (Değişkenler)](https://www.linkedin.com/pulse/es6-e%C4%9Fitimi-ders-3-de%C4%9Fi%C5%9Fkenler-hale-nur-%C3%A7al%C4%B1%C5%9Fkan/)  - Hale Nur Çalışkan
  - [JS Ders 1 Ecmascript 6 let kullanımı](https://www.youtube.com/watch?v=GanwZdZReco) - fehmiuyarnet :video_camera:
  - [JS Ders 2 Ecmascript 6 const kullanımı](https://www.youtube.com/watch?v=JrzV2bjEI-Q) - fehmiuyarnet :video_camera:
- - [Javascript Notları(ECMA6)-Değişlenler](https://www.youtube.com/watch?v=QnDI24SQh3c) - Fatih Çakıroğlu :video_camera:
+ - 🚫 Javascript Notları(ECMA6)-Değişlenler - https://www.youtube.com/watch?v=QnDI24SQh3c - Fatih Çakıroğlu :video_camera:
  - [ECMAScript 6 – let Değişken Tipi](https://www.gencayyildiz.com/blog/ecmascript-6-let-degisken-tipi/) - Gencay Yıldız
  - [Ecmascript 6 Dersleri 1 - Var, Let ve Const - Part 1](https://www.youtube.com/watch?v=oYdr1w9Ti1M) - Yazılım Bilimi :video_camera:
  - [Scope, let ve const](https://www.e-adys.com/react-native/03-03-scope-let-ve-const/) - Erdinç Uzun
