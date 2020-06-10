@@ -61,6 +61,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - 🚫 Javascript ES6 Notlar Part — 1 - medium.com/@odayibasi/javascript-es6-notlar-part-1-a78acf9ba77e - Onur Dayıbaşı
  - :star: [ES6 Eğitimi - Ders 1](https://www.linkedin.com/pulse/es6-e%C4%9Fitimi-ders-1-hale-nur-%C3%A7al%C4%B1%C5%9Fkan/) - Hale Nur Bolatcan
  - [Fonksiyonel Programlama Nedir? (JavaScript ES6 Üzerinden Anlatım)](http://devnot.com/2019/fonksiyonel-programlama-nedir/) - Zafer Ayan
+  - [JavaScript’de “Nullish Coalescing Operator” ile Doğru Varsayılan Değer Atama](https://medium.com/@tugsanunlu/javascriptde-nullish-coalescing-operator-ile-do%C4%9Fru-varsay%C4%B1lan-de%C4%9Fer-atama-ee89e2686951) - Tuğsan Ünlü
 
 ## Değişkenler let ve const
 
