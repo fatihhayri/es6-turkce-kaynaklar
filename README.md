@@ -290,10 +290,8 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
 
 ## Ücretli Eğitimler
 
- - [EcmaScript6 (ES6) İle JavaScript Yenilikleri](https://www.udemy.com/ecmascript6-es6-ile-javascript-yenilikleri/) - Selman UZUN :video_camera:
  - [Komple Modern JavaScript Kursu - ES6+ (2019)](https://www.udemy.com/sfrdan-ileri-seviyeye-modern-javascript-kursu/) - Mustafa Murat Coşkun :video_camera:
  - [Modern Javascript Kursu: ES6/ES7+ (2019)](https://www.udemy.com/modern-javascript-kursu/) - Sadık Turan :video_camera:
  - [Sıfırdan JavaScript Eğitimi: Oyun Projesi ve ES6 İçerir!](https://www.udemy.com/javascripti-sfrdan-ogrenin-oyun-projesi-ve-es6-icerir/) - Sultan Kalkan :video_camera:
  - [Sıfırdan Her Yönüyle JavaScript & Node.JS](https://www.udemy.com/nodejs-egitimi/) - Mehmet Seven :video_camera:
  - [JavaScript ile Temel Programlama ve İleri Seviye JavaScript](https://www.udemy.com/javascript-ile-temel-programlama-ve-ileri-seviye-javascript/) - Doğukan Güven Nomak, Fatih Kadir Akın :video_camera:
- - [Komple JavaScript ES6+ (2019): Node.js,Express,Angular,Mongo](https://www.udemy.com/course/full-stack-web-developer-kursu/) - Engin Demiroğ :video_camera:
