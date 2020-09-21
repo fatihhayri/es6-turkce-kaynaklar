@@ -59,7 +59,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ECMAScript 6 - ES6 - (ES 2015) Nedir?](http://www.webcebir.com/251-ecmascript-6-es6-es-2015-nedir-dersi.html) - webcebir
  - [ES6 ile Gelen Yenilikler](https://medium.com/@emreacara/es6-ile-gelen-yenilikler-8206e9d2654c) - Emre Acar
  - 🚫 Javascript ES6 Notlar Part — 1 - medium.com/@odayibasi/javascript-es6-notlar-part-1-a78acf9ba77e - Onur Dayıbaşı
- - :star: [ES6 Eğitimi - Ders 1](https://www.linkedin.com/pulse/es6-e%C4%9Fitimi-ders-1-hale-nur-%C3%A7al%C4%B1%C5%9Fkan/) - Hale Nur Bolatcan
+ - [ES6 Eğitimi - Ders 1](https://www.linkedin.com/pulse/es6-e%C4%9Fitimi-ders-1-hale-nur-%C3%A7al%C4%B1%C5%9Fkan/) - Hale Nur Bolatcan
  - [Fonksiyonel Programlama Nedir? (JavaScript ES6 Üzerinden Anlatım)](http://devnot.com/2019/fonksiyonel-programlama-nedir/) - Zafer Ayan
  - [JavaScript’de “Nullish Coalescing Operator” ile Doğru Varsayılan Değer Atama](https://medium.com/@tugsanunlu/javascriptde-nullish-coalescing-operator-ile-do%C4%9Fru-varsay%C4%B1lan-de%C4%9Fer-atama-ee89e2686951) - Tuğsan Ünlü
  - [JavaScript “Optional Chaining” Operatörü](https://medium.com/@tugsanunlu/javascript-optional-chaining-operat%C3%B6r%C3%BC-32966ea4175a) - Tuğsan Ünlü
@@ -93,7 +93,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Modern JavaScript(ES6+) Eğitiminden Notlar](https://malikmasis.blogspot.com/2019/05/modern-javascriptes6-egitiminden-notlar.html) - malikmasis
  - [Javascript | var-let-const kavramları #1](https://medium.com/@goktugsultan/https-medium-com-goktugsultan-es6-var-let-const-kavramlar-28f7512c72fc) - Göktuğ Sultan
   - [Neden ? var → let, const](https://medium.com/frontend-development-with-js/neden-var-let-const-671eaaf104dd) - Onur Dayıbaşı
-  - :star: [ES6 Eğitimi - Ders 3 (Değişkenler)](https://www.linkedin.com/pulse/es6-e%C4%9Fitimi-ders-3-de%C4%9Fi%C5%9Fkenler-hale-nur-%C3%A7al%C4%B1%C5%9Fkan/) - Hale Nur Bolatcan
+  - [ES6 Eğitimi - Ders 3 (Değişkenler)](https://www.linkedin.com/pulse/es6-e%C4%9Fitimi-ders-3-de%C4%9Fi%C5%9Fkenler-hale-nur-%C3%A7al%C4%B1%C5%9Fkan/) - Hale Nur Bolatcan
 
 ## Template literal
 
@@ -107,7 +107,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ECMAScript 6 – Template Literal](https://www.gencayyildiz.com/blog/ecmascript-6-template-literal/)  - Gencay Yıldız
  - [Template Literals](https://erdincuzun.com/react-native/03-09-template-literals/) - Erdinç Uzun
  - [ES6: Template literals ve tagged template literals](https://www.youtube.com/watch?v=nTDMPMxFQJo) - uçbirim :video_camera:
- - :star: [ES6 | Template Literals #3](https://medium.com/@goktugsultan/es6-template-literals-3-c770baccfde6) - Göktuğ Sultan
+ - [ES6 | Template Literals #3](https://medium.com/@goktugsultan/es6-template-literals-3-c770baccfde6) - Göktuğ Sultan
 
 ## Ok (Arrow) fonksiyonları
 
@@ -159,7 +159,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
   - [Map ve Reduce - Javascript](https://www.youtube.com/watch?v=SZXKTvVNX7M) - sanalonyedi :video_camera:
   - :star: [ES6 | Map-Filter-Reduce #5](https://medium.com/@goktugsultan/es6-map-filter-reduce-5-c82284625fa8) - Göktuğ Sultan
   - :star: [ES6 | Find-Some-Every #6](https://medium.com/@goktugsultan/es6-find-some-every-6-1c066e63876e) - Göktuğ Sultan
-  - :star: [JS’de ES6 ve Sonrasında Gelen Yardımcı Fonksiyonlar](https://medium.com/frontend-development-with-js/jsde-es6-ve-sonras%C4%B1nda-gelen-yard%C4%B1mc%C4%B1-fonksiyonlar-486b0b9093c8) - Onur Dayıbaşı
+  - [JS’de ES6 ve Sonrasında Gelen Yardımcı Fonksiyonlar](https://medium.com/frontend-development-with-js/jsde-es6-ve-sonras%C4%B1nda-gelen-yard%C4%B1mc%C4%B1-fonksiyonlar-486b0b9093c8) - Onur Dayıbaşı
   - [JavaScript ile Fonksiyonel Programlama: Map, Filter, Reduce](http://devnot.com/2020/javascript-ile-fonksiyonel-programlama-map-filter-reduce/) - Zafer Ayan
 
 ## Başlangıç parametre değerleri (Default Parameters)
@@ -203,7 +203,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES6: destructuring örnekleri](https://www.youtube.com/watch?v=KbYi-LjyhHQ) - Uçbirim :video_camera:
  - [ECMAScript 6 – Destructuring](https://www.gencayyildiz.com/blog/ecmascript-6-destructuring/) - Gencay Yıldız
  - [ES6 Destructuring nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/02/es6-destructuring-nedir-nasil-kullanilir.html) - Ahmet Şimşek
- - :star: [Javascript Harikaları-3 : Destructuring Assignment](https://medium.com/@thrkardak/javascript-harikalar%C4%B1-3-destructuring-assignment-64cbb9fe3355) - Tahir Kardak
+ - [Javascript Harikaları-3 : Destructuring Assignment](https://medium.com/@thrkardak/javascript-harikalar%C4%B1-3-destructuring-assignment-64cbb9fe3355) - Tahir Kardak
 
 ## Sınıf (Class)
 
@@ -226,7 +226,8 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
 - [Es6 Generators nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/02/es6-generators-nedir-nasil-kullanilir.html) - Ahmet Şimşek
 - [Generators](https://erdincuzun.com/react-native/03-06-generators/) - Erdinç Uzun
 - [Generatörler ve asenkron fonksiyonlar](https://medium.com/kodcular/es6-generat%C3%B6rler-ve-asenkron-fonksiyonlar-c8d964e70463) - selmansamet
-- :star: [Javascript’de Generators](https://medium.com/frontend-development-with-js/javascriptde-generators-403e33d3a6f1) - Onur Dayıbaşı
+- [Javascript’de Generators](https://medium.com/frontend-development-with-js/javascriptde-generators-403e33d3a6f1) - Onur Dayıbaşı
+- :star: [javascript Generator Fonksiyon Kullanımı](https://www.webcebir.com/351-javascript-generator-fonksiyon-kullanimi-dersi.html) - webcebir
 
 ## Modüller (Modules)
 
@@ -236,7 +237,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - 🚫 Ecmascript 6 Modül Sistemi - mehmetmasa.com.tr/javascript-dersleri/ecmascript-6-modul-sistemi/ - Mehmet Maşa
  - [ECMAScript – Module.exports ve Require Komutları](https://www.gencayyildiz.com/blog/ecmascript-module-exports-ve-require-komutlari/) - Gencay Yıldız
  - [Modules](https://erdincuzun.com/react-native/03-08-modules/) - Erdinç Uzun
- - :star: [EcmaScript6(ES6) Modül Kodlarını Çalıştırmak](https://medium.com/@muratbaseren/ecmascript6-modul-kodlarini-nasil-calistirmak-f6b432b99e90) - (Kadir Murat Başeren)
+ - [EcmaScript6(ES6) Modül Kodlarını Çalıştırmak](https://medium.com/@muratbaseren/ecmascript6-modul-kodlarini-nasil-calistirmak-f6b432b99e90) - (Kadir Murat Başeren)
 
 ## Promise
 
@@ -255,7 +256,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Callback, Promise ve Async](https://youtu.be/3x2s2Bk2y4k) - Uğur AKTAŞ :video_camera:
  - [JavaScript ES7 async await](https://www.yusufsezer.com.tr/javascript-es7-async-await/) - Yusuf Sezer
  - [JavaScript’te Async/Await Kullanımı](https://medium.com/@isagul/javascriptte-async-await-kullan%C4%B1m%C4%B1-95be3d16b62a/) - İsa Gül
-  - :star: [Promise-2 (Callback, Async, EventEmiter)](https://medium.com/frontend-development-with-js/promise-2-callback-async-eventemiter-f76ca77a6ce5) - Onur Dayıbaşı
+  -[Promise-2 (Callback, Async, EventEmiter)](https://medium.com/frontend-development-with-js/promise-2-callback-async-eventemiter-f76ca77a6ce5) - Onur Dayıbaşı
 
 ## Sembol (Symbol)
 
@@ -270,7 +271,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES6 Map + Set + WeakMap + WeakSet nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/03/es6-map-set-weakmap-weakset-nedir-nasil-kullanilir.html) - Ahmet Şimşek
  - [Map ve Set](https://erdincuzun.com/react-native/03-14-map-ve-set/) - Erdinç Uzun
  - [ES6: Map ve Set tipleri](https://medium.com/kodcular/es6-map-ve-set-tipleri-fcd40d966e3d) - selmansamet
- - :star: [JS ES6 Map/Set Veri Yapıları](https://medium.com/frontend-development-with-js/js-es6-map-set-veri-yap%C4%B1lar%C4%B1-5aa3b8b75528) - Onur Dayıbaşı
+ - [JS ES6 Map/Set Veri Yapıları](https://medium.com/frontend-development-with-js/js-es6-map-set-veri-yap%C4%B1lar%C4%B1-5aa3b8b75528) - Onur Dayıbaşı
 
 ## Map ve WeakMap Nesneleri
 
@@ -279,7 +280,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES6 Map + Set + WeakMap + WeakSet nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/03/es6-map-set-weakmap-weakset-nedir-nasil-kullanilir.html) - Ahmet Şimşek
  - [Map ve Set](https://erdincuzun.com/react-native/03-14-map-ve-set/) - Erdinç Uzun
  - [ES6: Map ve Set tipleri](https://medium.com/kodcular/es6-map-ve-set-tipleri-fcd40d966e3d) - selmansamet
- - :star: [JS ES6 Map/Set Veri Yapıları](https://medium.com/frontend-development-with-js/js-es6-map-set-veri-yap%C4%B1lar%C4%B1-5aa3b8b75528) - Onur Dayıbaşı
+ - [JS ES6 Map/Set Veri Yapıları](https://medium.com/frontend-development-with-js/js-es6-map-set-veri-yap%C4%B1lar%C4%B1-5aa3b8b75528) - Onur Dayıbaşı
 
 ## Proxy
 
