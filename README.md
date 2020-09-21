@@ -81,7 +81,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - 🚫 Javascript Notları(ECMA6)-Değişlenler - youtube.com/watch?v=QnDI24SQh3c - Fatih Çakıroğlu :video_camera:
  - [ECMAScript 6 – let Değişken Tipi](https://www.gencayyildiz.com/blog/ecmascript-6-let-degisken-tipi/) - Gencay Yıldız
  - [Ecmascript 6 Dersleri 1 - Var, Let ve Const - Part 1](https://www.youtube.com/watch?v=oYdr1w9Ti1M) - Yazılım Bilimi :video_camera:
- - [Scope, let ve const](https://www.e-adys.com/react-native/03-03-scope-let-ve-const/) - Erdinç Uzun
+ - [Scope, let ve const](https://erdincuzun.com/react-native/03-03-scope-let-ve-const/) - Erdinç Uzun
  - [JavaScript Tanımlamada var, let ve const farkı](https://ahmetonursolmaz.com.tr/javascript-var-let-ve-const-farki/) - Ahmet Onur Solmaz
  - [Javascript Dersleri 44 Let Ve Const Kullanımı (ES6)](https://youtu.be/d9pfCP5d1p8) - kolay video dersleri :video_camera:
  - [ECMAScript 6 ile gelen let, const, default parametreler](https://www.youtube.com/watch?v=i5KABnhogaE) - Tarık Güney :video_camera:
@@ -105,7 +105,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES6 Template strings nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/02/es6-template-strings-nedir-nasil-kullanilir.html)
  - 🚫 Javascript Notları(ECMA6)-TemplateString ve Default Deger - youtu.be/hAoc4HMTgcQ?t=155 - Fatih Çakıroğlu :video_camera:
  - [ECMAScript 6 – Template Literal](https://www.gencayyildiz.com/blog/ecmascript-6-template-literal/)  - Gencay Yıldız
- - [Template Literals](https://www.e-adys.com/react-native/03-09-template-literals/) - Erdinç Uzun
+ - [Template Literals](https://erdincuzun.com/react-native/03-09-template-literals/) - Erdinç Uzun
  - [ES6: Template literals ve tagged template literals](https://www.youtube.com/watch?v=nTDMPMxFQJo) - uçbirim :video_camera:
  - :star: [ES6 | Template Literals #3](https://medium.com/@goktugsultan/es6-template-literals-3-c770baccfde6) - Göktuğ Sultan
 
@@ -122,7 +122,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Javascript EcmaScript 2015 (ES6) ile gelen Arrow Function Kullanımı](https://www.youtube.com/watch?v=0P4NqV3q7Hs) - Sadık Turan :video_camera:
  - [JS Ders 5 Ecmascript 6 Arrow Functions](https://www.youtube.com/watch?v=1_9CZTE5Qao&t=216s) - fehmiuyarnet :video_camera:
  - [ECMAScript 6 – Arrow Functions](https://www.gencayyildiz.com/blog/ecmascript-6-arrow-functions/) - Gencay Yıldız
- - [Arrow Fonksiyonu](https://www.e-adys.com/react-native/03-04-arrow-fonksiyonu/) - Erdinç Uzun
+ - [Arrow Fonksiyonu](https://erdincuzun.com/react-native/03-04-arrow-fonksiyonu/) - Erdinç Uzun
  - [javaScript ARROW(OK) FONKSİYONLAR](http://www.webcebir.com/258-javascript-arrow-ok-fonksiyonlar-dersi.html) - Webcebir
  - :star: [ES6 | Arrow Functions #4](https://medium.com/@goktugsultan/es6-arrow-functions-4-fcbf3ecab7) - Göktuğ Sultan
 
@@ -168,7 +168,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Parametre isimlerini kullanmak - ECMAScript 6 - Türkçe Doküman](https://omergulcicek.github.io/es6/es6-temel-ozellikleri/parametre-isimlerini-kullanmak) - Ömer Gülçiçek
  - [JS Ders 3 Ecmascript 6 Default Parameters (Varsayılan Parametreler)](https://www.youtube.com/watch?v=Nkm8POOhnhQ) - fehmiuyarnet :video_camera:
  - 🚫 Javascript Notları(ECMA6)-TemplateString ve Default Deger - youtu.be/hAoc4HMTgcQ - Fatih Çakıroğlu :video_camera:
- - [Genişletilmiş Parametre Yönetimi](https://www.e-adys.com/react-native/03-10-genisletilmis-parametre-yonetimi/) - Erdinç Uzun
+ - [Genişletilmiş Parametre Yönetimi](https://erdincuzun.com/react-native/03-10-genisletilmis-parametre-yonetimi/) - Erdinç Uzun
  - [ECMAScript 6: Default Values](http://ersu.me/article/javascript/ecmascript6-default-values) - Hakan Ersu
  - [javascript ES-6 Default Parameters (Varsayılan Parametreler)](http://www.webcebir.com/261-javascript-es-6-default-parameters-varsayilan-parametreler-dersi.html) - Webcebir
   - :star: [Javascript | Default Parametre Atama #2](https://medium.com/@goktugsultan/javascript-default-parametre-atama-2-3b4dd9e0c055) - Göktuğ Sultan
@@ -185,7 +185,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Javascript Harikaları-1 : Rest Parameters](http://bilisim.io/2019/02/20/javascript-harikalari-1-rest-parameters/) - bilisim.io / Tahir Kardak
  - [ES6 Default + rest + spread nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/02/es6-default-rest-spread-nedir-nasil-kullanilir.html) - Ahmet Şimşek
  - [ECMAScript 6 – Spread Operator](https://www.gencayyildiz.com/blog/ecmascript-6-spread-operator/) - Gencay Yıldız
- - [Gelişmiş Atama](https://www.e-adys.com/react-native/03-11-gelismis-atama/) - Erdinç Uzun
+ - [Gelişmiş Atama](https://erdincuzun.com/react-native/03-11-gelismis-atama/) - Erdinç Uzun
  - [Javascript Harikaları-2 : Spread Syntax](https://medium.com/@thrkardak/javascript-harikalar%C4%B1-2-spread-syntax-d9abb9f8aed3) - Tahir Kardak
 
 ## Object literal
@@ -215,7 +215,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Javascript sınıf tanımlama](http://boraozer.com/2018/09/19/javascript-sinif-tanimlama/) - Bora Özer
  - 🚫 Javascript(ecmascript 6) Notları-class - youtu.be/BsewfjaJKFE - Fatih Çakıroğlu :video_camera:
  - 🚫 Javascript Notları(ECMA6)-Miras alma -youtube.com/watch?v=vKxTKlllMMQ - Fatih Çakıroğlu :video_camera:
- - [Class (Sınıf) Kavramı](https://www.e-adys.com/react-native/03-07-class-sinif-kavrami/) - Erdinç Uzun
+ - [Class (Sınıf) Kavramı](https://erdincuzun.com/react-native/03-07-class-sinif-kavrami/) - Erdinç Uzun
 
 ## Genarator fonksiyonlar
 
@@ -224,7 +224,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
 - [ES6 generator ve ES7 async fonksiyonlar](https://kodcu.com/2017/06/es6-generator-ve-es7-async-fonksiyonlar/) - kodcu
 - [JavaScript Fonksiyonları: Üretici Fonksiyonlar - Generator Functions](http://yazilim.cevapsitesi.com/Makaleler/68/javascript-fonksiyonlari-uretici-fonksiyonlar-generator-functions) - yazilim.cevapsitesi / canora
 - [Es6 Generators nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/02/es6-generators-nedir-nasil-kullanilir.html) - Ahmet Şimşek
-- [Generators](https://www.e-adys.com/react-native/03-06-generators/) - Erdinç Uzun
+- [Generators](https://erdincuzun.com/react-native/03-06-generators/) - Erdinç Uzun
 - [Generatörler ve asenkron fonksiyonlar](https://medium.com/kodcular/es6-generat%C3%B6rler-ve-asenkron-fonksiyonlar-c8d964e70463) - selmansamet
 - :star: [Javascript’de Generators](https://medium.com/frontend-development-with-js/javascriptde-generators-403e33d3a6f1) - Onur Dayıbaşı
 
@@ -235,7 +235,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES6 modules nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/03/es6-modules-nedir-nasil-kullanilir.html) - Ahmet Şimşek
  - 🚫 Ecmascript 6 Modül Sistemi - mehmetmasa.com.tr/javascript-dersleri/ecmascript-6-modul-sistemi/ - Mehmet Maşa
  - [ECMAScript – Module.exports ve Require Komutları](https://www.gencayyildiz.com/blog/ecmascript-module-exports-ve-require-komutlari/) - Gencay Yıldız
- - [Modules](https://www.e-adys.com/react-native/03-08-modules/) - Erdinç Uzun
+ - [Modules](https://erdincuzun.com/react-native/03-08-modules/) - Erdinç Uzun
  - :star: [EcmaScript6(ES6) Modül Kodlarını Çalıştırmak](https://medium.com/@muratbaseren/ecmascript6-modul-kodlarini-nasil-calistirmak-f6b432b99e90) - (Kadir Murat Başeren)
 
 ## Promise
@@ -268,7 +268,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [JS Ders 14 Ecmascript 6 Set Nesnesi Kullanımı](https://www.youtube.com/watch?v=JY4I38YAj3Y) - fehmiuyarnet :video_camera:
  - [ES6: Map ve Set tipleri](https://www.youtube.com/watch?v=AzrJqLCKRss) - Uçbirim :video_camera:
  - [ES6 Map + Set + WeakMap + WeakSet nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/03/es6-map-set-weakmap-weakset-nedir-nasil-kullanilir.html) - Ahmet Şimşek
- - [Map ve Set](https://www.e-adys.com/react-native/03-14-map-ve-set/) - Erdinç Uzun
+ - [Map ve Set](https://erdincuzun.com/react-native/03-14-map-ve-set/) - Erdinç Uzun
  - [ES6: Map ve Set tipleri](https://medium.com/kodcular/es6-map-ve-set-tipleri-fcd40d966e3d) - selmansamet
  - :star: [JS ES6 Map/Set Veri Yapıları](https://medium.com/frontend-development-with-js/js-es6-map-set-veri-yap%C4%B1lar%C4%B1-5aa3b8b75528) - Onur Dayıbaşı
 
@@ -277,14 +277,14 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [JS Ders 15 Ecmascript 6 Map ve WeakMap Nesnelerinin Kullanımı](https://www.youtube.com/watch?v=OQOJuPjiWj0) - fehmiuyarnet :video_camera:
  - [ES6: Map ve Set tipleri](https://www.youtube.com/watch?v=AzrJqLCKRss) - Uçbirim :video_camera:
  - [ES6 Map + Set + WeakMap + WeakSet nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/03/es6-map-set-weakmap-weakset-nedir-nasil-kullanilir.html) - Ahmet Şimşek
- - [Map ve Set](https://www.e-adys.com/react-native/03-14-map-ve-set/) - Erdinç Uzun
+ - [Map ve Set](https://erdincuzun.com/react-native/03-14-map-ve-set/) - Erdinç Uzun
  - [ES6: Map ve Set tipleri](https://medium.com/kodcular/es6-map-ve-set-tipleri-fcd40d966e3d) - selmansamet
  - :star: [JS ES6 Map/Set Veri Yapıları](https://medium.com/frontend-development-with-js/js-es6-map-set-veri-yap%C4%B1lar%C4%B1-5aa3b8b75528) - Onur Dayıbaşı
 
 ## Proxy
 
  - 🚫 JS Konseptleri #1: Proxy Nedir ve Kullanım Alanları Nelerdir? https://www.kodportali.com/yazilim/javascript/js-konseptleri-proxy-nedir-ve-kullanim-alanlari-nelerdir/ - Kod Portali / Muhammet Ali Can
- - 🚫  ES6 Proxies https://www.e-adys.com/react-native/03-16-es6-proxies/ - Erdinç Uzun
+ - [ES6 Proxies](https://erdincuzun.com/react-native/03-16-es6-proxies/) - Erdinç Uzun
  - [JavaScript ve Observer İşlemleri](https://aligoren.com/javascript-ve-observer-islemleri/) - Ali Gören
  - [JavaScript’te Proxy Kavramı](https://medium.com/@isagul/javascriptte-proxy-kavram%C4%B1-15cd57e8af06/) - İsa Gül
 
