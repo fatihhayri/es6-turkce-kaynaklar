@@ -283,8 +283,8 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
 
 ## Proxy
 
- - [JS Konseptleri #1: Proxy Nedir ve Kullanım Alanları Nelerdir?](https://www.kodportali.com/yazilim/javascript/js-konseptleri-proxy-nedir-ve-kullanim-alanlari-nelerdir/) - Kod Portali / Muhammet Ali Can
- - [ES6 Proxies](https://www.e-adys.com/react-native/03-16-es6-proxies/) - Erdinç Uzun
+ - 🚫 JS Konseptleri #1: Proxy Nedir ve Kullanım Alanları Nelerdir? https://www.kodportali.com/yazilim/javascript/js-konseptleri-proxy-nedir-ve-kullanim-alanlari-nelerdir/ - Kod Portali / Muhammet Ali Can
+ - 🚫  ES6 Proxies https://www.e-adys.com/react-native/03-16-es6-proxies/ - Erdinç Uzun
  - [JavaScript ve Observer İşlemleri](https://aligoren.com/javascript-ve-observer-islemleri/) - Ali Gören
  - [JavaScript’te Proxy Kavramı](https://medium.com/@isagul/javascriptte-proxy-kavram%C4%B1-15cd57e8af06/) - İsa Gül
 
