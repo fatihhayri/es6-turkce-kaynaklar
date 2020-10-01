@@ -171,7 +171,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Genişletilmiş Parametre Yönetimi](https://erdincuzun.com/react-native/03-10-genisletilmis-parametre-yonetimi/) - Erdinç Uzun
  - 🚫 ECMAScript 6: Default Values http://ersu.me/article/javascript/ecmascript6-default-values - Hakan Ersu
  - [javascript ES-6 Default Parameters (Varsayılan Parametreler)](http://www.webcebir.com/261-javascript-es-6-default-parameters-varsayilan-parametreler-dersi.html) - Webcebir
-  - :star: [Javascript | Default Parametre Atama #2](https://medium.com/@goktugsultan/javascript-default-parametre-atama-2-3b4dd9e0c055) - Göktuğ Sultan
+  - [Javascript | Default Parametre Atama #2](https://medium.com/@goktugsultan/javascript-default-parametre-atama-2-3b4dd9e0c055) - Göktuğ Sultan
 
 ## Spread Operator (...) ve Rest parametresi
 
@@ -256,7 +256,8 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Callback, Promise ve Async](https://youtu.be/3x2s2Bk2y4k) - Uğur AKTAŞ :video_camera:
  - [JavaScript ES7 async await](https://www.yusufsezer.com.tr/javascript-es7-async-await/) - Yusuf Sezer
  - [JavaScript’te Async/Await Kullanımı](https://medium.com/@isagul/javascriptte-async-await-kullan%C4%B1m%C4%B1-95be3d16b62a/) - İsa Gül
-  -[Promise-2 (Callback, Async, EventEmiter)](https://medium.com/frontend-development-with-js/promise-2-callback-async-eventemiter-f76ca77a6ce5) - Onur Dayıbaşı
+ - [Promise-2 (Callback, Async, EventEmiter)](https://medium.com/frontend-development-with-js/promise-2-callback-async-eventemiter-f76ca77a6ce5) - Onur Dayıbaşı
+ - :star: [javaScript Promise Kullanımı](http://www.webcebir.com/352-javascript-promise-kullanimi-dersi.html) - webcebir
 
 ## Sembol (Symbol)
 
