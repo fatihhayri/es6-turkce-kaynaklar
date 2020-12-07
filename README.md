@@ -131,7 +131,6 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES6 Yeni String Metodları](https://www.irfansimsar.com.tr/blog/yazilim/es6-yeni-string-metodlari/) - İrfan Simsar
  - [JS Ders 18 Ecmascript 6 ile eklenen number ve string metodları](https://www.youtube.com/watch?v=Q2TBi1nP6JQ) - fehmiuyarnet :video_camera:
  - [ES6: find, includes, repeat ve bir kaç gömülü metod](https://www.youtube.com/watch?v=giAOiydwTbA) - uçbirim :video_camera:
- - [String Extensions](https://www.karalamalar.net/string-extensions/) - karalamalar
 
 ## ES6 Dizi İşlemleri
 
