@@ -80,7 +80,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [JS Ders 2 Ecmascript 6 const kullanımı](https://www.youtube.com/watch?v=JrzV2bjEI-Q) - fehmiuyarnet :video_camera:
  - 🚫 Javascript Notları(ECMA6)-Değişlenler - youtube.com/watch?v=QnDI24SQh3c - Fatih Çakıroğlu :video_camera:
  - [ECMAScript 6 – let Değişken Tipi](https://www.gencayyildiz.com/blog/ecmascript-6-let-degisken-tipi/) - Gencay Yıldız
- - [Ecmascript 6 Dersleri 1 - Var, Let ve Const - Part 1](https://www.youtube.com/watch?v=oYdr1w9Ti1M) - Yazılım Bilimi :video_camera:
+ - 🚫 Ecmascript 6 Dersleri 1 - Var, Let ve Const - Part 1 - youtube.com/watch?v=oYdr1w9Ti1M - Yazılım Bilimi :video_camera:
  - [Scope, let ve const](https://erdincuzun.com/react-native/03-03-scope-let-ve-const/) - Erdinç Uzun
  - [JavaScript Tanımlamada var, let ve const farkı](https://ahmetonursolmaz.com.tr/javascript-var-let-ve-const-farki/) - Ahmet Onur Solmaz
  - [Javascript Dersleri 44 Let Ve Const Kullanımı (ES6)](https://youtu.be/d9pfCP5d1p8) - kolay video dersleri :video_camera:
@@ -100,7 +100,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Javascript ES6'dan En Çok Kullandığım 5 Özellik - 3 Template literals](https://blog.durul.me/2018/03/21/javascript-es6-en-cok-kullandigim-5-ozellik.html) - Durul Doktoroglu
  - [javaScript Template Literal](http://www.webcebir.com/227-javascript-template-literal-dersi.html) - webcebir
  - 🚫 ECMAScript 6 ile String ve Değişken Gömme Özelliği - buraktokak.com/ecmascript-ile-string-ve-degisken-gomme-ozelligi/  - Burak Tokak
- - [JAVASCRIPT’TE TEMPLATE LİTERAL VE DATE OBJESİ](https://www.kodportali.com/yazilim/javascriptte-template-literal/) - Kod Portali / Muhammet Ali Can
+ - 🚫 JAVASCRIPT’TE TEMPLATE LİTERAL VE DATE OBJESİ - kodportali.com/yazilim/javascriptte-template-literal/ - Kod Portali / Muhammet Ali Can
  - [JS Ders 9 Ecmascript 6 Template Literals](https://www.youtube.com/watch?v=yF_SsBMwqQk) - fehmiuyarnet :video_camera:
  - [ES6 Template strings nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/02/es6-template-strings-nedir-nasil-kullanilir.html)
  - 🚫 Javascript Notları(ECMA6)-TemplateString ve Default Deger - youtu.be/hAoc4HMTgcQ?t=155 - Fatih Çakıroğlu :video_camera:
@@ -211,7 +211,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [ES6 Class nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/02/es6-class-nedir-nasil-kullanilir.html) - Ahmet Şimşek
  - [Javascript’de class tanımlama ve diğer class işlemleri](http://www.muratoner.net/javascript/javascriptde-class-tanimlama-ve-diger-class-islemleri) - Murat Öner
  - [ecmascript class ders](https://www.youtube.com/watch?v=syxq-kWp91s&vl=tr) - Dılo abinin yeri :video_camera:
- - [Javascript sınıf tanımlama](http://boraozer.com/2018/09/19/javascript-sinif-tanimlama/) - Bora Özer
+ - 🚫 Javascript sınıf tanımlama - boraozer.com/2018/09/19/javascript-sinif-tanimlama/ - Bora Özer
  - 🚫 Javascript(ecmascript 6) Notları-class - youtu.be/BsewfjaJKFE - Fatih Çakıroğlu :video_camera:
  - 🚫 Javascript Notları(ECMA6)-Miras alma -youtube.com/watch?v=vKxTKlllMMQ - Fatih Çakıroğlu :video_camera:
  - [Class (Sınıf) Kavramı](https://erdincuzun.com/react-native/03-07-class-sinif-kavrami/) - Erdinç Uzun
@@ -220,7 +220,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
 
 - [JS Ders 12 Ecmascript 6 Generators Kullanımı](https://www.youtube.com/watch?v=4eagrgZ8nuM) - fehmiuyarnet :video_camera:
 - [Generatörler ve asenkron fonksiyonlar](https://www.youtube.com/watch?v=L3zeriJutZA) - Uçbirim :video_camera:
-- [ES6 generator ve ES7 async fonksiyonlar](https://kodcu.com/2017/06/es6-generator-ve-es7-async-fonksiyonlar/) - kodcu
+- 🚫 ES6 generator ve ES7 async fonksiyonlar - kodcu.com/2017/06/es6-generator-ve-es7-async-fonksiyonlar/) - kodcu
 - [JavaScript Fonksiyonları: Üretici Fonksiyonlar - Generator Functions](http://yazilim.cevapsitesi.com/Makaleler/68/javascript-fonksiyonlari-uretici-fonksiyonlar-generator-functions) - yazilim.cevapsitesi / canora
 - [Es6 Generators nedir? Nasıl kullanılır?](https://indatawetrust.blogspot.com/2016/02/es6-generators-nedir-nasil-kullanilir.html) - Ahmet Şimşek
 - [Generators](https://erdincuzun.com/react-native/03-06-generators/) - Erdinç Uzun
@@ -249,7 +249,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - 🚫 Javascript Promise nedir ? - youtube.com/watch?v=RYoA61va9og - Fatih Çakıroğlu :video_camera:
  - [ECMAScript 6 – Promise Yapısı](https://www.gencayyildiz.com/blog/ecmascript-6-promise-yapisi/) - Gencay Yıldız
  - [ECMAScript 6 – Async / Await Keywordleri](https://www.gencayyildiz.com/blog/ecmascript-6-async-await-keywordleri/) - Gencay Yıldız
- - [Javascript ile Asenkron İşlemler](https://batikansenemoglu.com/javascript-ile-asenkron-islemler/) - Batıkan Senemoğlu
+ - 🚫 Javascript ile Asenkron İşlemler - batikansenemoglu.com/javascript-ile-asenkron-islemler/ - Batıkan Senemoğlu
  - [Özgün Bal - Javascript'te Promise Kullanımı](https://www.youtube.com/watch?v=40YcabXaRTc) - Codefiction / Özgün Bal :video_camera:
  - [Javascript’te Promise Kullanımı](http://erdoganb.com/2017/10/javascriptte-promise-kullanimi/) - Erdoğan Bavaş
  - [Callback, Promise ve Async](https://youtu.be/3x2s2Bk2y4k) - Uğur AKTAŞ :video_camera:
@@ -284,7 +284,7 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
 
 ## Proxy
 
- - 🚫 JS Konseptleri #1: Proxy Nedir ve Kullanım Alanları Nelerdir? https://www.kodportali.com/yazilim/javascript/js-konseptleri-proxy-nedir-ve-kullanim-alanlari-nelerdir/ - Kod Portali / Muhammet Ali Can
+ - 🚫 JS Konseptleri #1: Proxy Nedir ve Kullanım Alanları Nelerdir? kodportali.com/yazilim/javascript/js-konseptleri-proxy-nedir-ve-kullanim-alanlari-nelerdir/ - Kod Portali / Muhammet Ali Can
  - [ES6 Proxies](https://erdincuzun.com/react-native/03-16-es6-proxies/) - Erdinç Uzun
  - [JavaScript ve Observer İşlemleri](https://aligoren.com/javascript-ve-observer-islemleri/) - Ali Gören
  - [JavaScript’te Proxy Kavramı](https://medium.com/@isagul/javascriptte-proxy-kavram%C4%B1-15cd57e8af06/) - İsa Gül
